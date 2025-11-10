@@ -1,4 +1,4 @@
-# MAG-Net Dataset
+# LUMI Dataset
 
 This repository contains two new market-level stock datasets for the **London Stock Exchange (LSE)** and the **Tokyo Stock Exchange (TSE)**. These datasets are structured to support spatio-temporal modeling and graph-based learning for stock prediction tasks.
 
