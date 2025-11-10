@@ -1,0 +1,1394 @@
+S.No.,S.No..1,Company Name ,Local Code,Market,Sector,wiki_code
+,558,"Kyokuyo Co.,Ltd.",1301,Prime Market,"Fishery, Agriculture and Forestry",unknown
+,559,Nissui Corporation,1332,Prime Market,"Fishery, Agriculture and Forestry",Q7039672
+,562,Sakata Seed Corporation,1377,Prime Market,"Fishery, Agriculture and Forestry",unknown
+,563,Hokuto Corporation,1379,Prime Market,"Fishery, Agriculture and Forestry",unknown
+,564,"Sho-Bond Holdings Co.,Ltd.",1414,Prime Market,Construction,unknown
+,565,Mirait One Corporation,1417,Prime Market,Construction,unknown
+,569,"Nittetsu Mining Co.,Ltd.",1515,Prime Market,Mining,unknown
+,570,"Mitsui Matsushima Holdings Co.,Ltd.",1518,Prime Market,Mining,unknown
+,571,Inpex Corporation,1605,Prime Market,Mining,unknown
+,572,"Japan Petroleum Exploration Co.,Ltd.",1662,Prime Market,Mining,unknown
+,574,Hazama Ando Corporation,1719,Prime Market,Construction,Q4410214
+,575,"Tokyu Construction Co., Ltd.",1720,Prime Market,Construction,unknown
+,576,Comsys Holdings Corporation,1721,Prime Market,Construction,unknown
+,577,Br.Holdings Corporation,1726,Prime Market,Construction,unknown
+,578,"Takamatsu Construction Group Co.,Ltd.",1762,Prime Market,Construction,unknown
+,579,Token Corporation,1766,Prime Market,Construction,Q11526904
+,580,Yamaura Corporation,1780,Prime Market,Construction,unknown
+,582,Taisei Corporation,1801,Prime Market,Construction,Q3178370
+,583,Obayashi Corporation,1802,Prime Market,Construction,Q384730
+,584,Shimizu Corporation,1803,Prime Market,Construction,Q7496874
+,585,Tobishima Corporation,1805,Prime Market,Construction,Q11665764
+,586,Haseko Corporation,1808,Prime Market,Construction,Q11654016
+,587,Kajima Corporation,1812,Prime Market,Construction,Q1081154
+,588,Fudo Tetra Corporation,1813,Prime Market,Construction,unknown
+,589,"Daisue Construction Co.,Ltd.",1814,Prime Market,Construction,unknown
+,590,Tekken Corporation,1815,Prime Market,Construction,Q11649550
+,591,"Nishimatsu Construction Co.,Ltd.",1820,Prime Market,Construction,unknown
+,592,"Sumitomo Mitsui Construction Co., Ltd.",1821,Prime Market,Construction,unknown
+,593,Okumura Corporation,1833,Prime Market,Construction,Q11445911
+,594,"Totetsu Kogyo Co.,Ltd.",1835,Prime Market,Construction,unknown
+,595,Asanuma Corporation,1852,Prime Market,Construction,Q11560409
+,596,Toda Corporation,1860,Prime Market,Construction,Q11496515
+,597,"Kumagai Gumi Co.,Ltd.",1861,Prime Market,Construction,unknown
+,598,"Yahagi Construction Co.,Ltd.",1870,Prime Market,Construction,unknown
+,599,"P.S. Mitsubishi Construction Co., Ltd.",1871,Prime Market,Construction,Q11331705
+,600,"Nihon House Holdings Co.,Ltd.",1873,Prime Market,Construction,unknown
+,601,"Daito Trust Construction Co.,Ltd.",1878,Prime Market,Real Estate,unknown
+,602,Shinnihon Corporation,1879,Prime Market,Construction,Q11502372
+,603,Toa Road Corporation,1882,Prime Market,Construction,Q11523961
+,604,"The Nippon Road Co.,Ltd.",1884,Prime Market,Construction,unknown
+,605,Toa Corporation,1885,Prime Market,Construction,unknown
+,607,"Wakachiku Construction Co.,Ltd.",1888,Prime Market,Construction,unknown
+,608,"Toyo Construction Co.,Ltd.",1890,Prime Market,Construction,unknown
+,609,"Penta-Ocean Construction Co.,Ltd.",1893,Prime Market,Construction,unknown
+,610,"Seikitokyu Kogyo Co.,Ltd.",1898,Prime Market,Construction,unknown
+,611,Fukuda Corporation,1899,Prime Market,Construction,Q11594237
+,612,"Sumitomo Forestry Co.,Ltd.",1911,Prime Market,Construction,unknown
+,613,"Daiwa House Industry Co.,Ltd.",1925,Prime Market,Construction,unknown
+,614,"Raito Kogyo Co.,Ltd.",1926,Prime Market,Construction,unknown
+,615,"Sekisui House,Ltd.",1928,Prime Market,Construction,unknown
+,616,"Nittoc Construction Co.,Ltd.",1929,Prime Market,Construction,unknown
+,617,"Hokuriku Electrical Construction Co.,Ltd.",1930,Prime Market,Construction,unknown
+,618,Yurtec Corporation,1934,Prime Market,Construction,Q11345522
+,619,"Nippon Rietec Co.,Ltd.",1938,Prime Market,Construction,unknown
+,620,Yondenko Corporation,1939,Prime Market,Construction,unknown
+,621,Chudenko Corporation,1941,Prime Market,Construction,unknown
+,622,"Kandenko Co.,Ltd.",1942,Prime Market,Construction,unknown
+,623,Kinden Corporation,1944,Prime Market,Construction,Q11265237
+,624,Tokyo Energy & Systems Inc.,1945,Prime Market,Construction,unknown
+,625,Toenec Corporation,1946,Prime Market,Construction,Q11322302
+,626,"Sumitomo Densetsu Co.,Ltd.",1949,Prime Market,Construction,unknown
+,627,"Nippon Densetsu Kogyo Co.,Ltd.",1950,Prime Market,Construction,unknown
+,628,"Exeo Group,Inc",1951,Prime Market,Construction,unknown
+,629,"Shin Nippon Air Technologies Co.,Ltd.",1952,Prime Market,Construction,unknown
+,630,Kyudenko Corporation,1959,Prime Market,Construction,Q11370470
+,631,"Sanki Engineering Co.,Ltd.",1961,Prime Market,Construction,unknown
+,632,Jgc Holdings Corporation,1963,Prime Market,Construction,unknown
+,633,"Chugai Ro Co.,Ltd.",1964,Prime Market,Construction,unknown
+,634,"Taihei Dengyo Kaisha,Ltd.",1968,Prime Market,Construction,unknown
+,635,"Takasago Thermal Engineering Co.,Ltd.",1969,Prime Market,Construction,unknown
+,636,Nec Networks & System Integration Corporation,1973,Prime Market,Information & Communication,unknown
+,637,"Asahi Kogyosha Co.,Ltd.",1975,Prime Market,Construction,unknown
+,638,"Meisei Industrial Co.,Ltd.",1976,Prime Market,Construction,unknown
+,639,Taikisha Ltd.,1979,Prime Market,Construction,unknown
+,640,"Dai-Dan Co.,Ltd.",1980,Prime Market,Construction,unknown
+,641,"Hibiya Engineering,Ltd.",1982,Prime Market,Construction,unknown
+,642,Nippn Corporation,2001,Prime Market,Foods,unknown
+,643,Nisshin Seifun Group Inc.,2002,Prime Market,Foods,unknown
+,644,"Showa Sangyo Co.,Ltd.",2004,Prime Market,Foods,unknown
+,645,"Chubu Shiryo Co.,Ltd.",2053,Prime Market,Foods,unknown
+,647,"Nippon Beet Sugar Manufacturing Co.,Ltd.",2108,Prime Market,Foods,unknown
+,648,"Mitsui Dm Sugar Holdings Co.,Ltd.",2109,Prime Market,Foods,unknown
+,649,"Wellneo Sugar Co.,Ltd.",2117,Prime Market,Foods,unknown
+,650,"Lifull Co.,Ltd.",2120,Prime Market,Services,unknown
+,651,"Mixi,Inc",2121,Prime Market,Services,unknown
+,652,"Jac Recruitment Co.,Ltd.",2124,Prime Market,Services,unknown
+,653,Nihon M&A Center Holdings Inc,2127,Prime Market,Services,unknown
+,655,"Ut Group Co.,Ltd.",2146,Prime Market,Services,unknown
+,656,Itmedia Inc,2148,Prime Market,Services,unknown
+,657,"Carenet,Inc",2150,Prime Market,Services,unknown
+,658,E・J Holdings Inc,2153,Prime Market,Services,unknown
+,659,Open Up Group Inc,2154,Prime Market,Services,unknown
+,660,"Koshidaka Holdings Co.,Ltd.",2157,Prime Market,Services,unknown
+,661,"Artner Co.,Ltd.",2163,Prime Market,Services,unknown
+,662,Pasona Group Inc,2168,Prime Market,Services,unknown
+,663,Link And Motivation Inc,2170,Prime Market,Services,unknown
+,664,"Sms Co.,Ltd.",2175,Prime Market,Services,unknown
+,665,"Persol Holdings Co.,Ltd.",2181,Prime Market,Services,unknown
+,666,Ikk Holdings Inc,2198,Prime Market,Services,unknown
+,667,"Morinaga & Co.,Ltd.",2201,Prime Market,Foods,unknown
+,668,"Ezaki Glico Co.,Ltd.",2206,Prime Market,Foods,unknown
+,669,"Meito Sangyo Co.,Ltd.",2207,Prime Market,Foods,unknown
+,670,"Imuraya Group Co.,Ltd.",2209,Prime Market,Foods,unknown
+,671,"Fujiya Co.,Ltd.",2211,Prime Market,Foods,unknown
+,672,"Yamazaki Baking Co.,Ltd.",2212,Prime Market,Foods,unknown
+,673,Morozoff Limited,2217,Prime Market,Foods,Q11344650
+,674,"Kameda Seika Co.,Ltd.",2220,Prime Market,Foods,unknown
+,675,"Kotobuki Spirits Co.,Ltd.",2222,Prime Market,Foods,unknown
+,676,"Calbee,Inc",2229,Prime Market,Foods,unknown
+,677,"Morinaga Milk Industry Co.,Ltd.",2264,Prime Market,Foods,unknown
+,678,"Rokko Butter Co.,Ltd.",2266,Prime Market,Foods,unknown
+,679,"Yakult Honsha Co.,Ltd.",2267,Prime Market,Foods,unknown
+,680,"Meiji Holdings Co.,Ltd.",2269,Prime Market,Foods,unknown
+,681,"Megmilk Snow Brand Co.,Ltd.",2270,Prime Market,Foods,unknown
+,682,"Prima Meat Packers,Ltd.",2281,Prime Market,Foods,unknown
+,683,Nh Foods Ltd.,2282,Prime Market,Foods,unknown
+,684,"Marudai Food Co.,Ltd.",2288,Prime Market,Foods,unknown
+,685,S Foods Inc,2292,Prime Market,Foods,unknown
+,686,"Kakiyasu Honten Co.,Ltd.",2294,Prime Market,Foods,unknown
+,688,"Gakujo Co.,Ltd.",2301,Prime Market,Services,unknown
+,689,"Studio Alice Co.,Ltd.",2305,Prime Market,Services,Q11311820
+,690,"Cross Cat Co.,Ltd.",2307,Prime Market,Information & Communication,unknown
+,692,Systena Corporation,2317,Prime Market,Information & Communication,Q11307174
+,693,"Njs Co.,Ltd.",2325,Prime Market,Services,unknown
+,694,Digital Arts Inc,2326,Prime Market,Information & Communication,unknown
+,695,Ns Solutions Corporation,2327,Prime Market,Information & Communication,unknown
+,696,"Sohgo Security Services Co.,Ltd.",2331,Prime Market,Services,unknown
+,697,Cube System Inc.,2335,Prime Market,Information & Communication,unknown
+,698,Ichigo Inc,2337,Prime Market,Real Estate,unknown
+,699,"Nippon Parking Development Co.,Ltd.",2353,Prime Market,Real Estate,unknown
+,700,Core Corporation,2359,Prime Market,Information & Communication,unknown
+,701,"Kakaku.Com,Inc",2371,Prime Market,Services,unknown
+,702,"I'Rom Group Co.,Ltd.",2372,Prime Market,Services,unknown
+,703,Saint-Care Holding Corporation,2374,Prime Market,Services,unknown
+,704,"Renaissance,Incorporated",2378,Prime Market,Services,unknown
+,705,Dip Corporation,2379,Prime Market,Services,unknown
+,706,"Sbs Holdings,Inc",2384,Prime Market,Land Transportation,unknown
+,707,"Digital Holdings,Inc.",2389,Prime Market,Services,unknown
+,708,"Shin Nippon Biomedical Laboratories,Ltd.",2395,Prime Market,Services,unknown
+,709,"Career Design Center Co.,Ltd.",2410,Prime Market,Services,unknown
+,711,"M3,Inc",2413,Prime Market,Services,unknown
+,713,"World Holdings Co.,Ltd.",2429,Prime Market,Services,unknown
+,714,"Dena Co.,Ltd.",2432,Prime Market,Services,unknown
+,715,Hakuhodo Dy Holdings Incorporated,2433,Prime Market,Services,unknown
+,716,"Gurunavi,Inc",2440,Prime Market,Services,unknown
+,717,"Takamiya Co.,Ltd.",2445,Prime Market,Services,unknown
+,719,"Fan Communications,Inc",2461,Prime Market,Services,unknown
+,720,"Like,Inc",2462,Prime Market,Services,unknown
+,721,"S-Pool,Inc",2471,Prime Market,Services,unknown
+,722,"Wdb Holdings Co.,Ltd.",2475,Prime Market,Services,unknown
+,723,Adways Inc,2489,Prime Market,Services,unknown
+,724,"Valuecommerce Co.,Ltd.",2491,Prime Market,Services,unknown
+,725,Infomart Corporation,2492,Prime Market,Services,unknown
+,726,Sapporo Holdings Limited,2501,Prime Market,Foods,Q11304809
+,727,"Asahi Group Holdings,Ltd.",2502,Prime Market,Foods,unknown
+,728,"Kirin Holdings Company,Limited",2503,Prime Market,Foods,unknown
+,729,Takara Holdings Inc.,2531,Prime Market,Foods,unknown
+,730,"Oenon Holdings,Inc",2533,Prime Market,Foods,unknown
+,731,"Yomeishu Seizo Co.,Ltd.",2540,Prime Market,Foods,unknown
+,732,Coca-Cola Bottlers Japan Holdings Inc,2579,Prime Market,Foods,unknown
+,735,"Dydo Group Holdings,Inc.",2590,Prime Market,Foods,unknown
+,736,"Ito En,Ltd.",2593,Prime Market,Foods,unknown
+,737,"Ito En,Ltd.(Shares Of Preferred Stock)",25935,Prime Market,Foods,unknown
+,738,Key Coffee Inc,2594,Prime Market,Foods,unknown
+,739,"The Nisshin Oillio Group,Ltd.",2602,Prime Market,Foods,unknown
+,740,Fuji Oil Holdings Inc.,2607,Prime Market,Foods,unknown
+,741,"J-Oil Mills, Inc.",2613,Prime Market,Foods,unknown
+,742,"Lawson,Inc",2651,Prime Market,Retail Trade,unknown
+,743,"San-A Co.,Ltd.",2659,Prime Market,Retail Trade,unknown
+,744,Cawachi Limited,2664,Prime Market,Retail Trade,unknown
+,745,"Abc-Mart,Inc.",2670,Prime Market,Retail Trade,unknown
+,746,"Hard Off Corporation Co.,Ltd.",2674,Prime Market,Retail Trade,unknown
+,747,"Takachiho Koheki Co.,Ltd.",2676,Prime Market,Wholesale Trade,unknown
+,748,Askul Corporation,2678,Prime Market,Retail Trade,Q11283438
+,749,Geo Holdings Corporation,2681,Prime Market,Retail Trade,unknown
+,750,"Adastria Co.,Ltd.",2685,Prime Market,Retail Trade,unknown
+,751,"Itochu-Shokuhin Co.,Ltd.",2692,Prime Market,Wholesale Trade,unknown
+,752,"Kura Sushi,Inc",2695,Prime Market,Retail Trade,unknown
+,753,Elematec Corporation,2715,Prime Market,Wholesale Trade,Q11291239
+,754,"Pal Group Holdings Co.,Ltd",2726,Prime Market,Retail Trade,unknown
+,755,Edion Corporation,2730,Prime Market,Retail Trade,unknown
+,756,Arata Corporation,2733,Prime Market,Wholesale Trade,unknown
+,757,Sala Corporation,2734,Prime Market,Retail Trade,Q11306276
+,758,Tomen Devices Corporation,2737,Prime Market,Wholesale Trade,unknown
+,759,"Halows Co.,Ltd.",2742,Prime Market,Retail Trade,unknown
+,760,"Jp-Holdings,Inc.",2749,Prime Market,Services,unknown
+,761,Fujio Food Group Inc.,2752,Prime Market,Retail Trade,unknown
+,762,"Amiyaki Tei Co.,Ltd.",2753,Prime Market,Retail Trade,unknown
+,763,Tokyo Electron Device Limited,2760,Prime Market,Wholesale Trade,unknown
+,764,Tsuburaya Fields Holdings Inc.,2767,Prime Market,Wholesale Trade,unknown
+,765,Sojitz Corporation,2768,Prime Market,Wholesale Trade,Q586260
+,766,Alfresa Holdings Corporation,2784,Prime Market,Wholesale Trade,unknown
+,767,"Daikokutenbussan Co.,Ltd.",2791,Prime Market,Retail Trade,unknown
+,768,"Honeys Holdings Co.,Ltd.",2792,Prime Market,Retail Trade,unknown
+,769,Kikkoman Corporation,2801,Prime Market,Foods,unknown
+,770,"Ajinomoto Co.,Inc",2802,Prime Market,Foods,unknown
+,771,"Bull-Dog Sauce Co.,Ltd.",2804,Prime Market,Foods,unknown
+,772,Kewpie Corporation,2809,Prime Market,Foods,Q11297548
+,773,House Foods Group Inc,2810,Prime Market,Foods,unknown
+,774,"Kagome Co.,Ltd.",2811,Prime Market,Foods,unknown
+,775,"Ariake Japan Co.,Ltd.",2815,Prime Market,Foods,unknown
+,776,Nichirei Corporation,2871,Prime Market,Foods,unknown
+,777,"Yokorei Co.,Ltd.",2874,Prime Market,Wholesale Trade,unknown
+,778,"Toyo Suisan Kaisha,Ltd.",2875,Prime Market,Foods,unknown
+,779,"Eat&Holdings Co.,Ltd",2882,Prime Market,Foods,unknown
+,781,"Nissin Foods Holdings Co.,Ltd.",2897,Prime Market,Foods,unknown
+,782,"Nagatanien Holdings Co.,Ltd.",2899,Prime Market,Foods,unknown
+,783,"Fujicco Co.,Ltd.",2908,Prime Market,Foods,unknown
+,784,"Rock Field Co.,Ltd.",2910,Prime Market,Foods,unknown
+,785,Japan Tobacco Inc.,2914,Prime Market,Foods,unknown
+,786,"Kenko Mayonnaise Co.,Ltd.",2915,Prime Market,Foods,unknown
+,787,"Warabeya Nichiyo Holdings Co.,Ltd.",2918,Prime Market,Foods,unknown
+,788,"Natori Co.,Ltd.",2922,Prime Market,Foods,unknown
+,789,"Pharma Foods International Co.,Ltd.",2929,Prime Market,Foods,unknown
+,797,Gunze Limited,3002,Prime Market,Textiles and Apparels,Q11300938
+,798,"Hulic Co.,Ltd.",3003,Prime Market,Real Estate,unknown
+,799,"Alpen Co.,Ltd.",3028,Prime Market,Retail Trade,unknown
+,800,"Raccoon Holdings,Inc",3031,Prime Market,Information & Communication,unknown
+,801,"Qol Holdings Co.,Ltd.",3034,Prime Market,Retail Trade,unknown
+,802,Alconix Corporation,3036,Prime Market,Wholesale Trade,Q17192133
+,803,"Kobe Bussan Co.,Ltd.",3038,Prime Market,Wholesale Trade,unknown
+,804,Soliton Systems K.K.,3040,Prime Market,Information & Communication,unknown
+,805,Jins Holdings Inc,3046,Prime Market,Retail Trade,unknown
+,806,Bic Camera Inc.,3048,Prime Market,Retail Trade,unknown
+,807,"Dcm Holdings Co.,Ltd.",3050,Prime Market,Retail Trade,unknown
+,808,"Monotaro Co.,Ltd.",3064,Prime Market,Retail Trade,unknown
+,809,"Dd Group Co.,Ltd.",3073,Prime Market,Retail Trade,unknown
+,810,Ai Holdings Corporation,3076,Prime Market,Wholesale Trade,unknown
+,811,"J.Front Retailing Co.,Ltd.",3086,Prime Market,Retail Trade,unknown
+,812,"Doutor・Nichires Holdings Co.,Ltd.",3087,Prime Market,Retail Trade,unknown
+,813,Matsukiyococokara & Co.,3088,Prime Market,Retail Trade,unknown
+,814,"Bronco Billy Co.,Ltd.",3091,Prime Market,Retail Trade,unknown
+,815,"Zozo,Inc",3092,Prime Market,Retail Trade,unknown
+,816,"Treasure Factory Co.,Ltd.",3093,Prime Market,Retail Trade,unknown
+,817,The Monogatari Corporation,3097,Prime Market,Retail Trade,unknown
+,818,Isetan Mitsukoshi Holdings Ltd.,3099,Prime Market,Retail Trade,unknown
+,819,"Toyobo Co.,Ltd.",3101,Prime Market,Textiles and Apparels,unknown
+,820,Unitika Ltd.,3103,Prime Market,Textiles and Apparels,unknown
+,821,"Fujibo Holdings,Inc",3104,Prime Market,Textiles and Apparels,unknown
+,822,Nisshinbo Holdings Inc,3105,Prime Market,Electric Appliances,unknown
+,823,Kurabo Industries Ltd.,3106,Prime Market,Textiles and Apparels,unknown
+,824,"Daiwabo Holdings Co.,Ltd.",3107,Prime Market,Wholesale Trade,unknown
+,825,Shikibo Ltd.,3109,Prime Market,Textiles and Apparels,unknown
+,826,"Nitto Boseki Co.,Ltd.",3110,Prime Market,Glass and Ceramics Products,unknown
+,827,Toyota Boshoku Corporation,3116,Prime Market,Transportation Equipment,Q7830755
+,831,"Welcia Holdings Co.,Ltd.",3141,Prime Market,Retail Trade,Q11288684
+,832,"Create Sd Holdings Co.,Ltd.",3148,Prime Market,Retail Trade,unknown
+,833,"Gremz,Inc",3150,Prime Market,Wholesale Trade,unknown
+,834,"Vital Ksk Holdings,Inc.",3151,Prime Market,Wholesale Trade,unknown
+,835,"Yashima Denki Co.,Ltd.",3153,Prime Market,Wholesale Trade,unknown
+,836,"Medius Holdings Co.,Ltd.",3154,Prime Market,Wholesale Trade,unknown
+,837,Restar Holdings Corporation,3156,Prime Market,Wholesale Trade,unknown
+,838,Tokai Holdings Corporation,3167,Prime Market,Wholesale Trade,unknown
+,839,"Sanyo Trading Co.,Ltd.",3176,Prime Market,Wholesale Trade,unknown
+,843,"Win-Partners Co.,Ltd.",3183,Prime Market,Wholesale Trade,unknown
+,851,"The Japan Wool Textile Co.,Ltd.",3201,Prime Market,Textiles and Apparels,unknown
+,853,"Nomura Real Estate Holdings,Inc",3231,Prime Market,Real Estate,unknown
+,856,"Dear Life Co.,Ltd.",3245,Prime Market,Real Estate,unknown
+,858,"Japan Property Management Center Co.,Ltd.",3276,Prime Market,Real Estate,unknown
+,862,"Iida Group Holdings Co.,Ltd.",3291,Prime Market,Real Estate,unknown
+,863,"Teikoku Sen-I Co.,Ltd.",3302,Prime Market,Textiles and Apparels,unknown
+,864,"Nippon Coke & Engineering Company,Limited",3315,Prime Market,Oil and Coal Products,unknown
+,865,Golf Digest Online Inc,3319,Prime Market,Retail Trade,unknown
+,866,Beenos Inc,3328,Prime Market,Retail Trade,unknown
+,867,"Asahi Co.,Ltd.",3333,Prime Market,Retail Trade,unknown
+,868,"Nihon Chouzai Co.,Ltd.",3341,Prime Market,Retail Trade,unknown
+,869,Cosmos Pharmaceutical Corporation,3349,Prime Market,Retail Trade,unknown
+,870,"Ship Healthcare Holdings,Inc.",3360,Prime Market,Wholesale Trade,unknown
+,871,Softcreate Holdings Corp.,3371,Prime Market,Information & Communication,unknown
+,872,"Seven & I Holdings Co.,Ltd.",3382,Prime Market,Retail Trade,unknown
+,873,Create Restaurants Holdings Inc.,3387,Prime Market,Retail Trade,unknown
+,874,"Meiji Electric Industries Co.,Ltd.",3388,Prime Market,Wholesale Trade,unknown
+,875,Tsuruha Holdings Inc.,3391,Prime Market,Retail Trade,Q11318827
+,876,"Startia Holdings,Inc",3393,Prime Market,Wholesale Trade,unknown
+,877,"Saint Marc Holdings Co.,Ltd.",3395,Prime Market,Retail Trade,unknown
+,878,Toridoll Holdings Corporation,3397,Prime Market,Retail Trade,unknown
+,879,Teijin Limited,3401,Prime Market,Textiles and Apparels,unknown
+,880,"Toray Industries,Inc.",3402,Prime Market,Textiles and Apparels,unknown
+,881,"Kuraray Co.,Ltd.",3405,Prime Market,Chemicals,unknown
+,882,Asahi Kasei Corporation,3407,Prime Market,Chemicals,Q720489
+,884,"Miyaji Engineering Group,Inc.",3431,Prime Market,Metal Products,unknown
+,885,"Tocalo Co.,Ltd.",3433,Prime Market,Metal Products,unknown
+,886,Sumco Corporation,3436,Prime Market,Metal Products,unknown
+,887,"Kawada Technologies,Inc.",3443,Prime Market,Metal Products,unknown
+,899,"Suminoe Textile Co.,Ltd.",3501,Prime Market,Textiles and Apparels,unknown
+,902,"Alleanza Holdings Co.,Ltd.",3546,Prime Market,Retail Trade,unknown
+,904,"Kusuri No Aoki Holdings Co.,Ltd.",3549,Prime Market,Retail Trade,unknown
+,907,"Seiren Co.,Ltd.",3569,Prime Market,Textiles and Apparels,unknown
+,908,"Komatsu Matere Co.,Ltd.",3580,Prime Market,Textiles and Apparels,unknown
+,909,Wacoal Holdings Corp.,3591,Prime Market,Textiles and Apparels,unknown
+,910,"Hogy Medical Co.,Ltd.",3593,Prime Market,Textiles and Apparels,unknown
+,911,"Tsi Holdings Co.,Ltd.",3608,Prime Market,Textiles and Apparels,unknown
+,913,Tis Inc,3626,Prime Market,Information & Communication,unknown
+,914,"Gree,Inc",3632,Prime Market,Information & Communication,unknown
+,915,"Koei Tecmo Holdings Co.,Ltd.",3635,Prime Market,Information & Communication,unknown
+,916,"Mitsubishi Research Institute,Inc",3636,Prime Market,Information & Communication,unknown
+,917,Findex Inc,3649,Prime Market,Information & Communication,unknown
+,918,Brainpad Inc,3655,Prime Market,Information & Communication,unknown
+,919,Klab Inc,3656,Prime Market,Information & Communication,unknown
+,920,"Pole To Win Holdings,Inc",3657,Prime Market,Information & Communication,unknown
+,921,"Nexon Co.,Ltd.",3659,Prime Market,Information & Communication,unknown
+,922,Istyle Inc,3660,Prime Market,Information & Communication,unknown
+,923,"M-Up Holdings,Inc",3661,Prime Market,Information & Communication,unknown
+,924,Ateam Inc,3662,Prime Market,Information & Communication,unknown
+,925,Enigmo Inc,3665,Prime Market,Information & Communication,unknown
+,928,Cross Marketing Group Inc,3675,Prime Market,Information & Communication,unknown
+,929,"Digital Hearts Holdings Co.,Ltd.",3676,Prime Market,Information & Communication,unknown
+,939,"Tokushu Tokai Paper Co.,Ltd.",3708,Prime Market,Pulp and Paper,unknown
+,940,T-Gaia Corporation,3738,Prime Market,Information & Communication,Q11319027
+,941,"Systems Engineering Consultants Co.,Ltd.",3741,Prime Market,Information & Communication,unknown
+,942,Techmatrix Corporation,3762,Prime Market,Information & Communication,unknown
+,943,Pro-Ship Incorporated,3763,Prime Market,Information & Communication,unknown
+,944,"Gungho Online Entertainment,Inc",3765,Prime Market,Information & Communication,unknown
+,945,"Gmo Payment Gateway,Inc",3769,Prime Market,Information & Communication,unknown
+,946,"System Research Co.,Ltd.",3771,Prime Market,Information & Communication,unknown
+,947,Internet Initiative Japan Inc,3774,Prime Market,Information & Communication,unknown
+,948,Sakura Internet Inc,3778,Prime Market,Information & Communication,unknown
+,949,Gmo Globalsign Holdings K.K.,3788,Prime Market,Information & Communication,unknown
+,950,"Sra Holdings,Inc",3817,Prime Market,Information & Communication,unknown
+,951,"Asahi Net,Inc",3834,Prime Market,Information & Communication,unknown
+,952,"Ebase Co.,Ltd.",3835,Prime Market,Information & Communication,unknown
+,953,Avant Group Corporation,3836,Prime Market,Information & Communication,unknown
+,954,Ad-Sol Nissin Corporation,3837,Prime Market,Information & Communication,Q11284039
+,955,"Freebit Co.,Ltd.",3843,Prime Market,Information & Communication,unknown
+,956,Comture Corporation,3844,Prime Market,Information & Communication,unknown
+,957,Asteria Corporation,3853,Prime Market,Information & Communication,Q11287745
+,958,I'Ll Inc,3854,Prime Market,Information & Communication,unknown
+,959,Oji Holdings Corporation,3861,Prime Market,Pulp and Paper,unknown
+,961,Mitsubishi Paper Mills Limited,3864,Prime Market,Pulp and Paper,unknown
+,962,Hokuetsu Corporation,3865,Prime Market,Pulp and Paper,Q11404108
+,963,"Chuetsu Pulp & Paper Co.,Ltd.",3877,Prime Market,Pulp and Paper,unknown
+,964,Daio Paper Corporation,3880,Prime Market,Pulp and Paper,Q8353441
+,979,"Rengo Co.,Ltd.",3941,Prime Market,Pulp and Paper,unknown
+,980,"Tomoku Co.,Ltd.",3946,Prime Market,Pulp and Paper,unknown
+,981,The Pack Corporation,3950,Prime Market,Pulp and Paper,Q11306657
+,986,"Macromill,Inc.",3978,Prime Market,Information & Communication,unknown
+,991,Resonac Holdings Corporation,4004,Prime Market,Chemicals,Q905412
+,992,"Sumitomo Chemical Company,Limited",4005,Prime Market,Chemicals,unknown
+,993,"Sumitomo Seika Chemicals Company,Limited.",4008,Prime Market,Chemicals,unknown
+,994,Nissan Chemical Corporation,4021,Prime Market,Chemicals,Q7040930
+,995,"Rasa Industries,Ltd.",4022,Prime Market,Chemicals,unknown
+,996,Kureha Corporation,4023,Prime Market,Chemicals,unknown
+,997,"Taki Chemical Co.,Ltd.",4025,Prime Market,Chemicals,unknown
+,998,Tayca Corporation,4027,Prime Market,Chemicals,Q11319089
+,999,"Ishihara Sangyo Kaisha,Ltd.",4028,Prime Market,Chemicals,unknown
+,1000,"Nippon Soda Co.,Ltd.",4041,Prime Market,Chemicals,unknown
+,1001,Tosoh Corporation,4042,Prime Market,Chemicals,unknown
+,1002,Tokuyama Corporation,4043,Prime Market,Chemicals,Q11321180
+,1003,"Central Glass Co.,Ltd.",4044,Prime Market,Chemicals,unknown
+,1004,"Toagosei Co.,Ltd.",4045,Prime Market,Chemicals,unknown
+,1005,"Osaka Soda Co.,Ltd.",4046,Prime Market,Chemicals,unknown
+,1006,"Kanto Denka Kogyo Co.,Ltd.",4047,Prime Market,Chemicals,unknown
+,1008,Denka Company Limited,4061,Prime Market,Chemicals,unknown
+,1009,"Ibiden Co.,Ltd.",4062,Prime Market,Electric Appliances,unknown
+,1010,"Shin-Etsu Chemical Co.,Ltd.",4063,Prime Market,Chemicals,unknown
+,1011,"Nippon Carbide Industries Company,Incorporated",4064,Prime Market,Chemicals,unknown
+,1014,"Sakai Chemical Industry Co.,Ltd.",4078,Prime Market,Chemicals,unknown
+,1015,"Daiichi Kigenso Kagaku-Kogyo Co.,Ltd",4082,Prime Market,Chemicals,unknown
+,1016,Air Water Inc.,4088,Prime Market,Chemicals,unknown
+,1017,Nippon Sanso Holdings Corporation,4091,Prime Market,Chemicals,Q11441729
+,1018,"Nippon Chemical Industrial Co.,Ltd.",4092,Prime Market,Chemicals,unknown
+,1019,"Toho Acetylene Co.,Ltd.",4093,Prime Market,Chemicals,unknown
+,1020,"Nihon Parkerizing Co.,Ltd.",4095,Prime Market,Chemicals,unknown
+,1021,"Koatsu Gas Kogyo Co.,Ltd.",4097,Prime Market,Chemicals,unknown
+,1022,Shikoku Kasei Holdings Corporation,4099,Prime Market,Chemicals,unknown
+,1023,Stella Chemifa Corporation,4109,Prime Market,Chemicals,unknown
+,1024,"Hodogaya Chemical Co.,Ltd.",4112,Prime Market,Chemicals,unknown
+,1025,"Nippon Shokubai Co.,Ltd.",4114,Prime Market,Chemicals,unknown
+,1026,"Dainichiseika Color & Chemicals Mfg.Co.,Ltd.",4116,Prime Market,Chemicals,unknown
+,1027,Kaneka Corporation,4118,Prime Market,Chemicals,Q11294493
+,1028,"Kyowa Kirin Co.,Ltd.",4151,Prime Market,Pharmaceutical,unknown
+,1030,"Mitsubishi Gas Chemical Company,Inc",4182,Prime Market,Chemicals,unknown
+,1031,"Mitsui Chemicals,Inc",4183,Prime Market,Chemicals,unknown
+,1033,"Tokyo Ohka Kogyo Co.,Ltd.",4186,Prime Market,Chemicals,unknown
+,1034,Osaka Organic Chemical Industry Ltd.,4187,Prime Market,Chemicals,unknown
+,1035,Mitsubishi Chemical Group Corporation,4188,Prime Market,Chemicals,unknown
+,1037,Daicel Corporation,4202,Prime Market,Chemicals,unknown
+,1038,"Sumitomo Bakelite Company,Limited",4203,Prime Market,Chemicals,unknown
+,1039,"Sekisui Chemical Co.,Ltd.",4204,Prime Market,Chemicals,unknown
+,1040,Zeon Corporation,4205,Prime Market,Chemicals,Q9097645
+,1041,"Aica Kogyo Company,Limited",4206,Prime Market,Chemicals,unknown
+,1042,Ube Corporation,4208,Prime Market,Chemicals,unknown
+,1043,Sekisui Jushi Corporation,4212,Prime Market,Chemicals,Q11597151
+,1044,C.I. Takiron Corporation,4215,Prime Market,Chemicals,unknown
+,1045,Asahi Yukizai Corporation,4216,Prime Market,Chemicals,unknown
+,1046,"Nichiban Co.,Ltd.",4218,Prime Market,Chemicals,unknown
+,1047,Riken Technos Corporation,4220,Prime Market,Chemicals,unknown
+,1048,"Okura Industrial Co.,Ltd.",4221,Prime Market,Chemicals,Q11432425
+,1049,"Sekisui Kasei Co.,Ltd.",4228,Prime Market,Chemicals,unknown
+,1050,"Gun Ei Chemical Industry Co.,Ltd.",4229,Prime Market,Chemicals,unknown
+,1054,"Nippon Kayaku Co.,Ltd.",4272,Prime Market,Chemicals,unknown
+,1055,"Carlit Holdings Co.,Ltd.",4275,Prime Market,Chemicals,unknown
+,1056,Prestige International Inc,4290,Prime Market,Services,unknown
+,1057,Proto Corporation,4298,Prime Market,Information & Communication,Q11336096
+,1058,Amuse Inc.,4301,Prime Market,Services,Q719628
+,1059,"Nomura Research Institute,Ltd.",4307,Prime Market,Information & Communication,unknown
+,1060,Dream Incubator Inc,4310,Prime Market,Services,unknown
+,1061,"Quick Co.,Ltd.",4318,Prime Market,Services,unknown
+,1062,"Japan System Techniques Co.,Ltd.",4323,Prime Market,Information & Communication,unknown
+,1063,Dentsu Group Inc.,4324,Prime Market,Services,unknown
+,1064,Intage Holdings Inc,4326,Prime Market,Information & Communication,unknown
+,1065,"Take And Give. Needs Co.,Ltd.",4331,Prime Market,Services,unknown
+,1066,"Toho System Science Co.,Ltd.",4333,Prime Market,Information & Communication,unknown
+,1067,Pia Corporation,4337,Prime Market,Services,Q11276881
+,1068,"Aeon Fantasy Co.,Ltd.",4343,Prime Market,Services,unknown
+,1069,Sourcenext Corporation,4344,Prime Market,Information & Communication,unknown
+,1070,"Cts Co.,Ltd.",4345,Prime Market,Services,unknown
+,1071,Infocom Corporation,4348,Prime Market,Information & Communication,Q11287743
+,1072,"Nippon Fine Chemical Co.,Ltd.",4362,Prime Market,Chemicals,unknown
+,1073,"Fuso Chemical Co.,Ltd.",4368,Prime Market,Chemicals,unknown
+,1074,Tri Chemical Laboratories Inc,4369,Prime Market,Chemicals,unknown
+,1081,Adeka Corporation,4401,Prime Market,Chemicals,Q11188921
+,1082,Nof Corporation,4403,Prime Market,Chemicals,unknown
+,1083,"Harima Chemicals Group,Inc.",4410,Prime Market,Chemicals,unknown
+,1085,"Hito-Communications Holdings,Inc",4433,Prime Market,Information & Communication,unknown
+,1089,Kao Corporation,4452,Prime Market,Chemicals,Q902855
+,1090,Dks Co.Ltd.,4461,Prime Market,Chemicals,unknown
+,1091,"Ishihara Chemical Co.,Ltd.",4462,Prime Market,Chemicals,unknown
+,1092,"Sanyo Chemical Industries,Ltd.",4471,Prime Market,Chemicals,unknown
+,1096,Takeda Pharmaceutical Company Limited,4502,Prime Market,Pharmaceutical,unknown
+,1097,Astellas Pharma Inc,4503,Prime Market,Pharmaceutical,unknown
+,1098,"Sumitomo Pharma Co.,Ltd.",4506,Prime Market,Pharmaceutical,unknown
+,1099,"Shionogi & Co.,Ltd.",4507,Prime Market,Pharmaceutical,unknown
+,1100,"Nippon Shinyaku Co.,Ltd.",4516,Prime Market,Pharmaceutical,unknown
+,1101,"Chugai Pharmaceutical Co.,Ltd.",4519,Prime Market,Pharmaceutical,unknown
+,1102,"Kaken Pharmaceutical Co.,Ltd.",4521,Prime Market,Pharmaceutical,unknown
+,1103,"Eisai Co.,Ltd.",4523,Prime Market,Pharmaceutical,unknown
+,1104,"Riken Vitamin Co.,Ltd.",4526,Prime Market,Foods,unknown
+,1105,"Rohto Pharmaceutical Co.,Ltd.",4527,Prime Market,Pharmaceutical,unknown
+,1106,"Ono Pharmaceutical Co.,Ltd.",4528,Prime Market,Pharmaceutical,unknown
+,1107,"Hisamitsu Pharmaceutical Co.,Inc.",4530,Prime Market,Pharmaceutical,unknown
+,1108,"Mochida Pharmaceutical Co.,Ltd.",4534,Prime Market,Pharmaceutical,unknown
+,1109,"Santen Pharmaceutical Co.,Ltd.",4536,Prime Market,Pharmaceutical,unknown
+,1110,"Fuso Pharmaceutical Industries,Ltd.",4538,Prime Market,Pharmaceutical,unknown
+,1111,Tsumura & Co.,4540,Prime Market,Pharmaceutical,Q11318805
+,1112,Terumo Corporation,4543,Prime Market,Precision Instruments,unknown
+,1113,"H.U. Group Holdings,Inc",4544,Prime Market,Services,unknown
+,1114,"Kissei Pharmaceutical Co.,Ltd.",4547,Prime Market,Pharmaceutical,unknown
+,1115,Seikagaku Corporation,4548,Prime Market,Pharmaceutical,Q11574430
+,1116,"Eiken Chemical Co.,Ltd.",4549,Prime Market,Pharmaceutical,unknown
+,1117,"Torii Pharmaceutical Co.,Ltd.",4551,Prime Market,Pharmaceutical,unknown
+,1118,"Jcr Pharmaceuticals Co.,Ltd.",4552,Prime Market,Pharmaceutical,unknown
+,1119,"Towa Pharmaceutical Co.,Ltd.",4553,Prime Market,Pharmaceutical,unknown
+,1120,"Fuji Pharma Co.,Ltd.",4554,Prime Market,Pharmaceutical,unknown
+,1121,"Zeria Pharmaceutical Co.,Ltd.",4559,Prime Market,Pharmaceutical,unknown
+,1122,Sosei Group Corporation,4565,Prime Market,Pharmaceutical,Q28685940
+,1123,"Daiichi Sankyo Company,Limited",4568,Prime Market,Pharmaceutical,unknown
+,1124,"Kyorin Pharmaceutical Co.,Ltd.",4569,Prime Market,Pharmaceutical,unknown
+,1125,"Taiko Pharmaceutical Co.,Ltd.",4574,Prime Market,Pharmaceutical,unknown
+,1126,"Daito Pharmaceutical Co.,Ltd.",4577,Prime Market,Pharmaceutical,unknown
+,1127,"Otsuka Holdings Co.,Ltd.",4578,Prime Market,Pharmaceutical,unknown
+,1129,"Dai Nippon Toryo Company,Limited",4611,Prime Market,Chemicals,unknown
+,1130,"Nippon Paint Holdings Co.,Ltd.",4612,Prime Market,Chemicals,unknown
+,1131,"Kansai Paint Co.,Ltd.",4613,Prime Market,Chemicals,unknown
+,1132,"Chugoku Marine Paints,Ltd.",4617,Prime Market,Chemicals,unknown
+,1133,"Taiyo Holdings Co.,Ltd.",4626,Prime Market,Chemicals,unknown
+,1134,Dic Corporation,4631,Prime Market,Chemicals,unknown
+,1135,Sakata Inx Corporation,4633,Prime Market,Chemicals,unknown
+,1136,"Toyo Ink Sc Holdings Co.,Ltd.",4634,Prime Market,Chemicals,unknown
+,1138,Altech Corporation,4641,Prime Market,Services,unknown
+,1139,"Nippon Air Conditioning Services Co.,Ltd.",4658,Prime Market,Services,unknown
+,1140,"Oriental Land Co.,Ltd.",4661,Prime Market,Services,unknown
+,1141,Focus Systems Corporation,4662,Prime Market,Information & Communication,unknown
+,1142,"Duskin Co.,Ltd.",4665,Prime Market,Services,unknown
+,1143,"Park24 Co.,Ltd.",4666,Prime Market,Real Estate,unknown
+,1144,"Meiko Network Japan Co.,Ltd.",4668,Prime Market,Services,unknown
+,1145,Cresco Ltd.,4674,Prime Market,Information & Communication,unknown
+,1146,"Fuji Media Holdings,Inc.",4676,Prime Market,Information & Communication,unknown
+,1147,Round One Corporation,4680,Prime Market,Services,unknown
+,1148,"Resorttrust,Inc.",4681,Prime Market,Services,unknown
+,1149,"Obic Co.,Ltd.",4684,Prime Market,Information & Communication,unknown
+,1150,Justsystems Corporation,4686,Prime Market,Information & Communication,unknown
+,1151,Tdc Soft Inc,4687,Prime Market,Information & Communication,unknown
+,1152,Ly Corporation,4689,Prime Market,Information & Communication,unknown
+,1153,"Bml,Inc.",4694,Prime Market,Services,unknown
+,1154,Trend Micro Incorporated,4704,Prime Market,Information & Communication,Q700974
+,1155,Id Holdings Corporation,4709,Prime Market,Information & Communication,unknown
+,1156,"Riso Kyoiku Co.,Ltd.",4714,Prime Market,Services,unknown
+,1157,"Waseda Academy Co.,Ltd.",4718,Prime Market,Services,unknown
+,1158,Alpha Systems Inc.,4719,Prime Market,Information & Communication,unknown
+,1159,Future Corporation,4722,Prime Market,Information & Communication,Q17213696
+,1160,Cac Holdings Corporation,4725,Prime Market,Information & Communication,unknown
+,1161,Sb Technology Corp.,4726,Prime Market,Information & Communication,unknown
+,1162,"Uss Co.,Ltd.",4732,Prime Market,Services,unknown
+,1163,"Obic Business Consultants Co.,Ltd.",4733,Prime Market,Information & Communication,Q11293433
+,1165,Itfor Inc,4743,Prime Market,Information & Communication,unknown
+,1166,"Cyberagent,Inc",4751,Prime Market,Services,unknown
+,1167,"Rakuten Group,Inc",4755,Prime Market,Services,unknown
+,1168,"Creek & River Co.,Ltd.",4763,Prime Market,Services,unknown
+,1169,"Sbi Global Asset Management Co.,Ltd.",4765,Prime Market,Services,unknown
+,1170,Otsuka Corporation,4768,Prime Market,Information & Communication,Q11434002
+,1171,"Cybozu,Inc",4776,Prime Market,Information & Communication,unknown
+,1172,"Yamada Consulting Group Co.,Ltd.",4792,Prime Market,Services,unknown
+,1173,"Central Sports Co.,Ltd.",4801,Prime Market,Services,unknown
+,1174,Paraca Inc,4809,Prime Market,Real Estate,unknown
+,1175,"Information Services International-Dentsu,Ltd.",4812,Prime Market,Information & Communication,unknown
+,1176,"Access Co.,Ltd.",4813,Prime Market,Information & Communication,unknown
+,1177,"Digital Garage,Inc",4819,Prime Market,Information & Communication,unknown
+,1178,"Em Systems Co.,Ltd.",4820,Prime Market,Information & Communication,unknown
+,1179,Weathernews Inc.,4825,Prime Market,Information & Communication,unknown
+,1180,"Computer Institute Of Japan, Ltd.",4826,Prime Market,Information & Communication,unknown
+,1181,Business Engineering Corporation,4828,Prime Market,Information & Communication,unknown
+,1182,Wowow Inc.,4839,Prime Market,Information & Communication,unknown
+,1184,Intelligent Wave Inc.,4847,Prime Market,Information & Communication,unknown
+,1185,"Fullcast Holdings Co.,Ltd.",4848,Prime Market,Services,unknown
+,1186,En Japan Inc,4849,Prime Market,Services,unknown
+,1190,Fujifilm Holdings Corporation,4901,Prime Market,Chemicals,Q164740
+,1191,"Konica Minolta,Inc.",4902,Prime Market,Electric Appliances,unknown
+,1192,"Shiseido Company,Limited",4911,Prime Market,Chemicals,unknown
+,1193,Lion Corporation,4912,Prime Market,Chemicals,Q1131297
+,1194,Takasago International Corporation,4914,Prime Market,Chemicals,Q611119
+,1195,Mandom Corporation,4917,Prime Market,Chemicals,unknown
+,1196,"Milbon Co.,Ltd.",4919,Prime Market,Chemicals,unknown
+,1197,Fancl Corporation,4921,Prime Market,Chemicals,Q11332202
+,1198,Kose Corporation,4922,Prime Market,Chemicals,unknown
+,1199,"Cota Co.,Ltd.",4923,Prime Market,Chemicals,unknown
+,1200,Pola Orbis Holdings Inc.,4927,Prime Market,Chemicals,unknown
+,1201,"Noevir Holdings Co.,Ltd.",4928,Prime Market,Chemicals,unknown
+,1205,S.T.Corporation,4951,Prime Market,Chemicals,unknown
+,1206,"Konishi Co.,Ltd.",4956,Prime Market,Chemicals,unknown
+,1207,"T.Hasegawa Co.,Ltd.",4958,Prime Market,Chemicals,unknown
+,1209,"Kobayashi Pharmaceutical Co.,Ltd.",4967,Prime Market,Chemicals,unknown
+,1210,"Arakawa Chemical Industries,Ltd.",4968,Prime Market,Chemicals,unknown
+,1211,Mec Company Ltd.,4971,Prime Market,Chemicals,unknown
+,1212,"Japan Pure Chemical Co.,Ltd.",4973,Prime Market,Chemicals,unknown
+,1213,Takara Bio Inc.,4974,Prime Market,Chemicals,unknown
+,1214,Jcu Corporation,4975,Prime Market,Chemicals,unknown
+,1216,Earth Corporation,4985,Prime Market,Chemicals,unknown
+,1217,"Kumiai Chemical Industry Co.,Ltd.",4996,Prime Market,Chemicals,unknown
+,1218,"Nihon Nohyaku Co.,Ltd.",4997,Prime Market,Chemicals,unknown
+,1219,"Nichireki Co.,Ltd.",5011,Prime Market,Oil and Coal Products,unknown
+,1220,"Fuji Oil Company,Ltd.",5017,Prime Market,Oil and Coal Products,unknown
+,1221,"Idemitsu Kosan Co.,Ltd.",5019,Prime Market,Oil and Coal Products,unknown
+,1222,"Eneos Holdings,Inc",5020,Prime Market,Oil and Coal Products,unknown
+,1227,"The Yokohama Rubber Company,Limited",5101,Prime Market,Rubber Products,unknown
+,1228,Toyo Tire Corporation,5105,Prime Market,Rubber Products,Q568406
+,1229,Bridgestone Corporation,5108,Prime Market,Rubber Products,Q179433
+,1230,"Sumitomo Rubber Industries,Ltd.",5110,Prime Market,Rubber Products,unknown
+,1231,Fujikura Composites Inc,5121,Prime Market,Rubber Products,unknown
+,1232,"Okamoto Industries,Inc.",5122,Prime Market,Rubber Products,unknown
+,1233,Achilles Corporation,5142,Prime Market,Chemicals,Q11282798
+,1234,"Fukoku Co.,Ltd.",5185,Prime Market,Rubber Products,unknown
+,1235,Nitta Corporation,5186,Prime Market,Rubber Products,Q11324481
+,1236,Sumitomo Riko Company Limited,5191,Prime Market,Rubber Products,unknown
+,1237,Mitsuboshi Belting Ltd.,5192,Prime Market,Rubber Products,unknown
+,1238,"Bando Chemical Industries,Ltd.",5195,Prime Market,Rubber Products,unknown
+,1239,Agc Inc,5201,Prime Market,Glass and Ceramics Products,unknown
+,1240,"Nippon Sheet Glass Company,Limited",5202,Prime Market,Glass and Ceramics Products,unknown
+,1241,"Arisawa Mfg.Co.,Ltd.",5208,Prime Market,Chemicals,unknown
+,1242,"Nippon Electric Glass Co.,Ltd.",5214,Prime Market,Glass and Ceramics Products,unknown
+,1243,"Sumitomo Osaka Cement Co.,Ltd.",5232,Prime Market,Glass and Ceramics Products,unknown
+,1244,Taiheiyo Cement Corporation,5233,Prime Market,Glass and Ceramics Products,unknown
+,1245,"Resol Holdings Co.,Ltd.",5261,Prime Market,Services,unknown
+,1246,Nippon Hume Corporation,5262,Prime Market,Glass and Ceramics Products,unknown
+,1247,"Nippon Concrete Industries Co.,Ltd.",5269,Prime Market,Glass and Ceramics Products,unknown
+,1248,Asia Pile Holdings Corporation,5288,Prime Market,Glass and Ceramics Products,unknown
+,1249,"Tokai Carbon Co.,Ltd.",5301,Prime Market,Glass and Ceramics Products,unknown
+,1250,"Nippon Carbon Co.,Ltd.",5302,Prime Market,Glass and Ceramics Products,unknown
+,1251,"Toyo Tanso Co.,Ltd.",5310,Prime Market,Glass and Ceramics Products,unknown
+,1252,"Noritake Co.,Limited",5331,Prime Market,Glass and Ceramics Products,unknown
+,1253,Toto Ltd.,5332,Prime Market,Glass and Ceramics Products,Q1751566
+,1254,"Ngk Insulators,Ltd.",5333,Prime Market,Glass and Ceramics Products,unknown
+,1255,"Niterra Co.,Ltd.",5334,Prime Market,Glass and Ceramics Products,unknown
+,1256,"Maruwa Co.,Ltd.",5344,Prime Market,Glass and Ceramics Products,unknown
+,1257,"Shinagawa Refractories Co.,Ltd.",5351,Prime Market,Glass and Ceramics Products,unknown
+,1258,Krosaki Harima Corporation,5352,Prime Market,Glass and Ceramics Products,Q11678173
+,1259,"Yotai Refractories Co.,Ltd.",5357,Prime Market,Glass and Ceramics Products,unknown
+,1260,Fujimi Incorporated,5384,Prime Market,Glass and Ceramics Products,Q124791253
+,1261,Nichias Corporation,5393,Prime Market,Glass and Ceramics Products,Q11324384
+,1262,Nippon Steel Corporation,5401,Prime Market,Iron and Steel,Q651282
+,1263,"Kobe Steel,Ltd.",5406,Prime Market,Iron and Steel,unknown
+,1264,"Nakayama Steel Works,Ltd.",5408,Prime Market,Iron and Steel,unknown
+,1265,"Godo Steel,Ltd.",5410,Prime Market,Iron and Steel,unknown
+,1266,"Jfe Holdings,Inc",5411,Prime Market,Iron and Steel,unknown
+,1267,"Tokyo Steel Manufacturing Co.,Ltd.",5423,Prime Market,Iron and Steel,unknown
+,1268,Kyoei Steel Ltd.,5440,Prime Market,Iron and Steel,unknown
+,1269,"Yamato Kogyo Co.,Ltd.",5444,Prime Market,Iron and Steel,unknown
+,1270,"Tokyo Tekko Co.,Ltd.",5445,Prime Market,Iron and Steel,unknown
+,1271,"Yodogawa Steel Works,Ltd.",5451,Prime Market,Iron and Steel,unknown
+,1273,Maruichi Steel Tube Ltd.,5463,Prime Market,Iron and Steel,unknown
+,1274,"Daido Steel Co.,Ltd.",5471,Prime Market,Iron and Steel,unknown
+,1275,"Nippon Yakin Kogyo Co.,Ltd.",5480,Prime Market,Iron and Steel,Q11086253
+,1276,"Sanyo Special Steel Co.,Ltd.",5481,Prime Market,Iron and Steel,unknown
+,1277,Aichi Steel Corporation,5482,Prime Market,Iron and Steel,Q403696
+,1279,"Pacific Metals Co.,Ltd.",5541,Prime Market,Iron and Steel,unknown
+,1280,"Nippon Denko Co.,Ltd.",5563,Prime Market,Iron and Steel,unknown
+,1281,"Kurimoto,Ltd.",5602,Prime Market,Iron and Steel,unknown
+,1282,"The Japan Steel Works,Ltd.",5631,Prime Market,Machinery,unknown
+,1283,"Mitsubishi Steel Mfg.Co.,Ltd.",5632,Prime Market,Iron and Steel,unknown
+,1284,"Nippon Seisen Co.,Ltd.",5659,Prime Market,Iron and Steel,unknown
+,1286,"Daiki Aluminium Industry Co.,Ltd.",5702,Prime Market,Nonferrous Metals,unknown
+,1287,"Nippon Light Metal Holdings Company,Ltd.",5703,Prime Market,Nonferrous Metals,unknown
+,1288,"Mitsui Mining And Smelting Company,Limited",5706,Prime Market,Nonferrous Metals,unknown
+,1289,"Toho Zinc Co.,Ltd.",5707,Prime Market,Nonferrous Metals,unknown
+,1290,Mitsubishi Materials Corporation,5711,Prime Market,Nonferrous Metals,unknown
+,1291,"Sumitomo Metal Mining Co.,Ltd.",5713,Prime Market,Nonferrous Metals,unknown
+,1292,"Dowa Holdings Co.,Ltd.",5714,Prime Market,Nonferrous Metals,unknown
+,1293,"Furukawa Co.,Ltd.",5715,Prime Market,Nonferrous Metals,unknown
+,1294,"Osaka Titanium Technologies Co.,Ltd.",5726,Prime Market,Nonferrous Metals,unknown
+,1295,"Toho Titanium Company,Limited",5727,Prime Market,Nonferrous Metals,unknown
+,1296,Uacj Corporation,5741,Prime Market,Nonferrous Metals,unknown
+,1298,"Furukawa Electric Co.,Ltd.",5801,Prime Market,Nonferrous Metals,unknown
+,1299,"Sumitomo Electric Industries,Ltd.",5802,Prime Market,Nonferrous Metals,unknown
+,1300,Fujikura Ltd.,5803,Prime Market,Nonferrous Metals,unknown
+,1301,Swcc Corporation,5805,Prime Market,Nonferrous Metals,unknown
+,1302,"Tatsuta Electric Wire And Cable Co.,Ltd.",5809,Prime Market,Nonferrous Metals,unknown
+,1303,Hirakawa Hewtech Corp.,5821,Prime Market,Nonferrous Metals,unknown
+,1308,"Kyoto Financial Group,Inc",5844,Prime Market,Banks,unknown
+,1309,Ryobi Limited,5851,Prime Market,Nonferrous Metals,unknown
+,1310,Ahresty Corporation,5852,Prime Market,Nonferrous Metals,unknown
+,1311,"Are Holdings,Inc",5857,Prime Market,Nonferrous Metals,unknown
+,1312,"Toyo Seikan Group Holdings,Ltd.",5901,Prime Market,Metal Products,unknown
+,1313,Hokkan Holdings Limited,5902,Prime Market,Metal Products,unknown
+,1314,Yokogawa Bridge Holdings Corp.,5911,Prime Market,Metal Products,unknown
+,1315,Komaihaltec Inc,5915,Prime Market,Metal Products,unknown
+,1316,Sanwa Holdings Corporation,5929,Prime Market,Metal Products,unknown
+,1317,"Bunka Shutter Co.,Ltd.",5930,Prime Market,Metal Products,unknown
+,1319,Alinco Incorporated,5933,Prime Market,Metal Products,unknown
+,1320,Lixil Corporation,5938,Prime Market,Metal Products,unknown
+,1321,Noritz Corporation,5943,Prime Market,Metal Products,unknown
+,1322,"Chofu Seisakusho Co.,Ltd.",5946,Prime Market,Metal Products,unknown
+,1323,Rinnai Corporation,5947,Prime Market,Metal Products,unknown
+,1324,Unipres Corporation,5949,Prime Market,Transportation Equipment,Q11345730
+,1325,"Nittoseiko Co.,Ltd.",5957,Prime Market,Metal Products,unknown
+,1326,"Okabe Co.,Ltd.",5959,Prime Market,Metal Products,unknown
+,1327,G-Tekt Corporation,5970,Prime Market,Metal Products,unknown
+,1328,Topre Corporation,5975,Prime Market,Metal Products,Q11523839
+,1329,"Neturen Co.,Ltd.",5976,Prime Market,Metal Products,unknown
+,1330,"Tokyo Rope Mfg.Co.,Ltd",5981,Prime Market,Metal Products,unknown
+,1331,"Piolax,Inc.",5988,Prime Market,Metal Products,unknown
+,1332,"H-One Co.,Ltd.",5989,Prime Market,Metal Products,unknown
+,1333,"Nhk Spring Co.,Ltd.",5991,Prime Market,Metal Products,unknown
+,1334,"Miura Co.,Ltd.",6005,Prime Market,Machinery,unknown
+,1335,"Takuma Co.,Ltd.",6013,Prime Market,Machinery,unknown
+,1337,"Ir Japan Holdings,Ltd.",6035,Prime Market,Services,unknown
+,1340,E-Guardian Inc,6050,Prime Market,Services,unknown
+,1341,"Japan Material Co.,Ltd.",6055,Prime Market,Services,unknown
+,1342,Vector Inc.,6058,Prime Market,Services,Q11245018
+,1343,Charm Care Corporation,6062,Prime Market,Services,unknown
+,1345,"Ibj,Inc",6071,Prime Market,Services,unknown
+,1354,Tsugami Corporation,6101,Prime Market,Machinery,Q11318711
+,1355,Okuma Corporation,6103,Prime Market,Machinery,Q13479653
+,1356,"Shibaura Machine Co.,Ltd.",6104,Prime Market,Machinery,unknown
+,1357,"Amada Co.,Ltd.",6113,Prime Market,Machinery,unknown
+,1358,"Aida Engineering,Ltd.",6118,Prime Market,Machinery,unknown
+,1360,"Makino Milling Machine Co.,Ltd.",6135,Prime Market,Machinery,unknown
+,1361,Osg Corporation,6136,Prime Market,Machinery,unknown
+,1362,"Asahi Diamond Industrial Co.,Ltd.",6140,Prime Market,Machinery,unknown
+,1363,"Dmg Mori Co.,Ltd.",6141,Prime Market,Machinery,unknown
+,1364,"Sodick Co.,Ltd.",6143,Prime Market,Machinery,unknown
+,1365,Disco Corporation,6146,Prime Market,Machinery,Q5281524
+,1366,"Nitto Kohki Co.,Ltd.",6151,Prime Market,Machinery,unknown
+,1367,"Ns Tool Co.,Ltd.",6157,Prime Market,Machinery,unknown
+,1377,Toyota Industries Corporation,6201,Prime Market,Transportation Equipment,Q1476105
+,1379,"Shima Seiki Mfg.,Ltd.",6222,Prime Market,Machinery,unknown
+,1384,"Hisaka Works,Ltd.",6247,Prime Market,Machinery,unknown
+,1385,Yamabiko Corporation,6250,Prime Market,Machinery,Q17224245
+,1386,"Nomura Micro Science Co.,Ltd.",6254,Prime Market,Machinery,unknown
+,1387,Hirata Corporation,6258,Prime Market,Machinery,Q1419754
+,1388,"Pegasus Co.,Ltd.",6262,Prime Market,Machinery,unknown
+,1389,"Marumae Co.,Ltd.",6264,Prime Market,Machinery,unknown
+,1390,"Tazmo Co.,Ltd.",6266,Prime Market,Machinery,unknown
+,1391,Nabtesco Corporation,6268,Prime Market,Machinery,unknown
+,1392,"Modec,Inc.",6269,Prime Market,Machinery,unknown
+,1393,"Rheon Automatic Machinery Co.,Ltd.",6272,Prime Market,Machinery,unknown
+,1394,Smc Corporation,6273,Prime Market,Machinery,unknown
+,1395,Hosokawa Micron Corporation,6277,Prime Market,Machinery,unknown
+,1396,Union Tool Co.,6278,Prime Market,Machinery,unknown
+,1397,Zuiko Corporation,6279,Prime Market,Machinery,unknown
+,1398,Oiles Corporation,6282,Prime Market,Machinery,Q11291683
+,1399,"Nissei Asb Machine Co.,Ltd.",6284,Prime Market,Machinery,unknown
+,1400,Sato Holdings Corporation,6287,Prime Market,Machinery,Q11304901
+,1401,Giken Ltd.,6289,Prime Market,Machinery,unknown
+,1402,"Nissei Plastic Industrial Co.,Ltd.",6293,Prime Market,Machinery,unknown
+,1403,Okada Aiyon Corporation,6294,Prime Market,Machinery,unknown
+,1404,"Y.A.C.Holdings Co.,Ltd.",6298,Prime Market,Machinery,unknown
+,1405,Komatsu Ltd.,6301,Prime Market,Machinery,Q162257
+,1406,"Sumitomo Heavy Industries,Ltd.",6302,Prime Market,Machinery,unknown
+,1407,"Hitachi Construction Machinery Co.,Ltd.",6305,Prime Market,Machinery,unknown
+,1408,"Nikko Co.,Ltd.",6306,Prime Market,Machinery,unknown
+,1409,"Tomoe Engineering Co.,Ltd.(Tomoe Kogyo Co.,Ltd.)",6309,Prime Market,Machinery,unknown
+,1410,"Iseki & Co.,Ltd.",6310,Prime Market,Machinery,unknown
+,1411,Towa Corporation,6315,Prime Market,Machinery,Q11249950
+,1412,Rorze Corporation,6323,Prime Market,Machinery,Q11350970
+,1413,Kubota Corporation,6326,Prime Market,Machinery,Q1514221
+,1414,"Ebara Jitsugyo Co.,Ltd.",6328,Prime Market,Machinery,unknown
+,1415,Toyo Engineering Corporation,6330,Prime Market,Construction,Q7830625
+,1416,"Mitsubishi Kakoki Kaisha,Ltd.",6331,Prime Market,Machinery,unknown
+,1417,"Tsukishima Holdings Co.,Ltd.",6332,Prime Market,Machinery,unknown
+,1418,"Teikoku Electric Mfg. Co.,Ltd.",6333,Prime Market,Machinery,unknown
+,1419,"Sintokogio,Ltd.",6339,Prime Market,Machinery,unknown
+,1420,Shibuya Corporation,6340,Prime Market,Machinery,unknown
+,1421,Aichi Corporation,6345,Prime Market,Machinery,Q11282239
+,1422,Komori Corporation,6349,Prime Market,Machinery,Q1671042
+,1423,"Tsurumi Manufacturing Co.,Ltd.",6351,Prime Market,Machinery,unknown
+,1424,"Sakai Heavy Industries,Ltd.",6358,Prime Market,Machinery,unknown
+,1425,Ebara Corporation,6361,Prime Market,Machinery,Q5331498
+,1426,"Torishima Pump Mfg.Co.,Ltd.",6363,Prime Market,Machinery,unknown
+,1427,"Hokuetsu Industries Co.,Ltd.",6364,Prime Market,Machinery,unknown
+,1428,"Daikin Industries,Ltd.",6367,Prime Market,Machinery,unknown
+,1429,Organo Corporation,6368,Prime Market,Machinery,Q11292796
+,1430,Toyo Kanetsu K.K.,6369,Prime Market,Machinery,unknown
+,1431,Kurita Water Industries Ltd.,6370,Prime Market,Machinery,Q6446085
+,1432,Tsubakimoto Chain Co.,6371,Prime Market,Machinery,unknown
+,1433,"Nikkiso Co.,Ltd.",6376,Prime Market,Precision Instruments,unknown
+,1434,Raiznext Corporation,6379,Prime Market,Construction,unknown
+,1435,Anest Iwata Corporation,6381,Prime Market,Machinery,unknown
+,1436,"Daifuku Co.,Ltd.",6383,Prime Market,Machinery,unknown
+,1437,Samco Inc.,6387,Prime Market,Machinery,unknown
+,1438,"Kato Works Co.,Ltd.",6390,Prime Market,Machinery,unknown
+,1439,Tadano Ltd.,6395,Prime Market,Machinery,unknown
+,1440,"Fujitec Co.,Ltd.",6406,Prime Market,Machinery,unknown
+,1441,Ckd Corporation,6407,Prime Market,Machinery,unknown
+,1442,Heiwa Corporation,6412,Prime Market,Machinery,Q11482167
+,1443,Riso Kagaku Corporation,6413,Prime Market,Machinery,Q2068008
+,1444,"Sankyo Co.,Ltd.",6417,Prime Market,Machinery,unknown
+,1445,"Japan Cash Machine Co.,Ltd.",6418,Prime Market,Machinery,unknown
+,1446,Mars Group Holdings Corporation,6419,Prime Market,Machinery,unknown
+,1447,Fukushima Galilei Co.Ltd.,6420,Prime Market,Machinery,unknown
+,1448,"Daikoku Denki Co.,Ltd.",6430,Prime Market,Machinery,unknown
+,1449,"Takeuchi Mfg.Co.,Ltd.",6432,Prime Market,Machinery,unknown
+,1450,Amano Corporation,6436,Prime Market,Machinery,Q11284890
+,1451,Juki Corporation,6440,Prime Market,Machinery,unknown
+,1452,Janome Corporation,6445,Prime Market,Machinery,unknown
+,1453,"Brother Industries,Ltd.",6448,Prime Market,Electric Appliances,unknown
+,1454,"Max Co.,Ltd.",6454,Prime Market,Machinery,unknown
+,1455,Morita Holdings Corporation,6455,Prime Market,Transportation Equipment,Q2850657
+,1456,Glory Ltd.,6457,Prime Market,Machinery,unknown
+,1457,Sinko Industries Ltd.,6458,Prime Market,Machinery,unknown
+,1458,Daiwa Industries Ltd.,6459,Prime Market,Machinery,Q11433415
+,1459,Sega Sammy Holdings Inc.,6460,Prime Market,Machinery,unknown
+,1460,"Tpr Co.,Ltd.",6463,Prime Market,Machinery,unknown
+,1462,Hoshizaki Corporation,6465,Prime Market,Machinery,Q1630382
+,1463,Nsk Ltd.,6471,Prime Market,Machinery,unknown
+,1464,Ntn Corporation,6472,Prime Market,Machinery,unknown
+,1465,Jtekt Corporation,6473,Prime Market,Machinery,unknown
+,1466,Nachi-Fujikoshi Corp.,6474,Prime Market,Machinery,unknown
+,1467,Minebea Mitsumi Inc,6479,Prime Market,Electric Appliances,unknown
+,1468,"Nippon Thompson Co.,Ltd.",6480,Prime Market,Machinery,unknown
+,1469,"Thk Co.,Ltd.",6481,Prime Market,Machinery,unknown
+,1470,"Eagle Industry Co.,Ltd.",6486,Prime Market,Machinery,unknown
+,1471,"Nippon Pillar Packing Co.,Ltd.",6490,Prime Market,Machinery,unknown
+,1472,Kitz Corporation,6498,Prime Market,Machinery,Q11296815
+,1473,"Hitachi,Ltd.",6501,Prime Market,Electric Appliances,unknown
+,1475,Mitsubishi Electric Corporation,6503,Prime Market,Electric Appliances,Q53257
+,1476,"Fuji Electric Co.,Ltd.",6504,Prime Market,Electric Appliances,unknown
+,1477,Yaskawa Electric Corporation,6506,Prime Market,Electric Appliances,Q2620239
+,1478,"Sinfonia Technology Co.,Ltd.",6507,Prime Market,Electric Appliances,unknown
+,1479,Meidensha Corporation,6508,Prime Market,Electric Appliances,unknown
+,1480,"Sanyo Denki Co.,Ltd.",6516,Prime Market,Electric Appliances,unknown
+,1481,"Denyo Co.,Ltd.",6517,Prime Market,Electric Appliances,unknown
+,1495,"Sanoh Industrial Co.,Ltd.",6584,Prime Market,Transportation Equipment,unknown
+,1496,Makita Corporation,6586,Prime Market,Machinery,Q691508
+,1497,Toshiba Tec Corporation,6588,Prime Market,Electric Appliances,unknown
+,1498,Shibaura Mechatronics Corporation,6590,Prime Market,Electric Appliances,unknown
+,1499,"Mabuchi Motor Co.,Ltd.",6592,Prime Market,Electric Appliances,unknown
+,1500,Nidec Corporation,6594,Prime Market,Electric Appliances,Q3341241
+,1503,"Takaoka Toko Co.,Ltd.",6617,Prime Market,Electric Appliances,unknown
+,1504,W-Scope Corporation,6619,Prime Market,Electric Appliances,unknown
+,1505,"Miyakoshi Holdings,Inc",6620,Prime Market,Real Estate,unknown
+,1506,Daihen Corporation,6622,Prime Market,Electric Appliances,Q11316955
+,1507,Ya-Man Ltd.,6630,Prime Market,Electric Appliances,unknown
+,1508,Jvckenwood Corporation,6632,Prime Market,Electric Appliances,unknown
+,1509,"Mimaki Engineering Co.,Ltd.",6638,Prime Market,Electric Appliances,unknown
+,1510,I-Pex Inc,6640,Prime Market,Electric Appliances,unknown
+,1511,"Osaki Electric Co.,Ltd.",6644,Prime Market,Electric Appliances,unknown
+,1512,Omron Corporation,6645,Prime Market,Electric Appliances,unknown
+,1513,Nitto Kogyo Corporation,6651,Prime Market,Electric Appliances,unknown
+,1514,Idec Corporation,6652,Prime Market,Electric Appliances,unknown
+,1516,Gs Yuasa Corporation,6674,Prime Market,Electric Appliances,unknown
+,1518,Nec Corporation,6701,Prime Market,Electric Appliances,unknown
+,1519,Fujitsu Limited,6702,Prime Market,Electric Appliances,Q186394
+,1520,"Oki Electric Industry Company,Limited",6703,Prime Market,Electric Appliances,unknown
+,1521,"Dkk Co.,Ltd.",6706,Prime Market,Electric Appliances,unknown
+,1522,"Sanken Electric Co.,Ltd.",6707,Prime Market,Electric Appliances,unknown
+,1523,"Aiphone Co.,Ltd.",6718,Prime Market,Electric Appliances,unknown
+,1524,Renesas Electronics Corporation,6723,Prime Market,Electric Appliances,Q1196269
+,1525,Seiko Epson Corporation,6724,Prime Market,Electric Appliances,Q159614
+,1526,"Wacom Co.,Ltd.",6727,Prime Market,Electric Appliances,unknown
+,1527,"Ulvac, Inc",6728,Prime Market,Electric Appliances,unknown
+,1528,Eizo Corporation,6737,Prime Market,Electric Appliances,unknown
+,1530,"Nippon Signal Company,Limited",6741,Prime Market,Electric Appliances,unknown
+,1531,"Kyosan Electric Manufacturing Co.,Ltd.",6742,Prime Market,Electric Appliances,unknown
+,1532,Nohmi Bosai Ltd.,6744,Prime Market,Electric Appliances,unknown
+,1533,Hochiki Corporation,6745,Prime Market,Electric Appliances,Q11338360
+,1534,"Elecom Co.,Ltd.",6750,Prime Market,Electric Appliances,unknown
+,1535,Panasonic Holdings Corporation,6752,Prime Market,Electric Appliances,Q53247
+,1536,Sharp Corporation,6753,Prime Market,Electric Appliances,Q53227
+,1537,Anritsu Corporation,6754,Prime Market,Electric Appliances,unknown
+,1538,Fujitsu General Limited,6755,Prime Market,Electric Appliances,unknown
+,1539,Sony Group Corporation,6758,Prime Market,Electric Appliances,unknown
+,1540,Tdk Corporation,6762,Prime Market,Electric Appliances,unknown
+,1541,"Teikoku Tsushin Kogyo Co.,Ltd.",6763,Prime Market,Electric Appliances,unknown
+,1542,Tamura Corporation,6768,Prime Market,Electric Appliances,Q11316348
+,1543,"Alps Alpine Co.,Ltd.",6770,Prime Market,Electric Appliances,unknown
+,1544,"Nihon Dempa Kogyo Co.,Ltd.",6779,Prime Market,Electric Appliances,unknown
+,1545,"Suzuki Co.,Ltd.",6785,Prime Market,Electric Appliances,unknown
+,1546,"Meiko Electronics Co.,Ltd.",6787,Prime Market,Electric Appliances,unknown
+,1547,"Nihon Trim Co.,Ltd.",6788,Prime Market,Electric Appliances,unknown
+,1549,"Foster Electric Company,Limited",6794,Prime Market,Electric Appliances,unknown
+,1550,Smk Corporation,6798,Prime Market,Electric Appliances,unknown
+,1551,"Yokowo Co.,Ltd.",6800,Prime Market,Electric Appliances,unknown
+,1552,Hosiden Corporation,6804,Prime Market,Electric Appliances,unknown
+,1553,"Hirose Electric Co.,Ltd.",6806,Prime Market,Electric Appliances,unknown
+,1554,"Japan Aviation Electronics Industry,Limited",6807,Prime Market,Electric Appliances,unknown
+,1555,Toa Corporation,6809,Prime Market,Electric Appliances,unknown
+,1556,"Maxell,Ltd.",6810,Prime Market,Electric Appliances,unknown
+,1557,"Furuno Electric Co.,Ltd.",6814,Prime Market,Electric Appliances,unknown
+,1558,Sumida Corporation,6817,Prime Market,Electric Appliances,Q112769284
+,1559,Icom Incorporated,6820,Prime Market,Electric Appliances,Q1207071
+,1560,"Rion Co.,Ltd.",6823,Prime Market,Electric Appliances,unknown
+,1561,Yokogawa Electric Corporation,6841,Prime Market,Electric Appliances,Q1779684
+,1562,"Shindengen Electric Manufacturing Co.,Ltd.",6844,Prime Market,Electric Appliances,unknown
+,1563,Azbil Corporation,6845,Prime Market,Electric Appliances,unknown
+,1564,Nihon Kohden Corporation,6849,Prime Market,Electric Appliances,unknown
+,1565,Chino Corporation,6850,Prime Market,Electric Appliances,Q11317978
+,1566,"Horiba,Ltd.",6856,Prime Market,Electric Appliances,unknown
+,1567,Advantest Corporation,6857,Prime Market,Electric Appliances,Q2722179
+,1568,Espec Corp.,6859,Prime Market,Electric Appliances,unknown
+,1569,Keyence Corporation,6861,Prime Market,Electric Appliances,Q1475699
+,1570,Hioki E.E.Corporation,6866,Prime Market,Electric Appliances,unknown
+,1571,Sysmex Corporation,6869,Prime Market,Electric Appliances,Q7663566
+,1572,"Micronics Japan Co.,Ltd.",6871,Prime Market,Electric Appliances,unknown
+,1573,Megachips Corporation,6875,Prime Market,Electric Appliances,unknown
+,1574,Imagica Group Inc,6879,Prime Market,Information & Communication,unknown
+,1575,Denso Corporation,6902,Prime Market,Transportation Equipment,Q176508
+,1576,"Cosel Co.,Ltd.",6905,Prime Market,Electric Appliances,unknown
+,1577,"Iriso Electronics Co.,Ltd.",6908,Prime Market,Electric Appliances,unknown
+,1578,"Optex Group Company,Limited",6914,Prime Market,Electric Appliances,unknown
+,1579,Lasertec Corporation,6920,Prime Market,Electric Appliances,unknown
+,1580,"Stanley Electric Co.,Ltd.",6923,Prime Market,Electric Appliances,unknown
+,1581,Ushio Inc.,6925,Prime Market,Electric Appliances,unknown
+,1582,"Enomoto Co.,Ltd.",6928,Prime Market,Electric Appliances,unknown
+,1583,"Nippon Ceramic Co.,Ltd.",6929,Prime Market,Electric Appliances,unknown
+,1584,"The Furukawa Battery Co.,Ltd.",6937,Prime Market,Electric Appliances,unknown
+,1585,"Yamaichi Electronics Co.,Ltd.",6941,Prime Market,Electric Appliances,unknown
+,1586,Zuken Inc.,6947,Prime Market,Electric Appliances,unknown
+,1587,Jeol Ltd.,6951,Prime Market,Electric Appliances,unknown
+,1588,"Casio Computer Co.,Ltd.",6952,Prime Market,Electric Appliances,unknown
+,1589,Fanuc Corporation,6954,Prime Market,Electric Appliances,Q212116
+,1590,Cmk Corporation,6958,Prime Market,Electric Appliances,unknown
+,1591,Enplas Corporation,6961,Prime Market,Electric Appliances,Q11291461
+,1592,Daishinku Corp.,6962,Prime Market,Electric Appliances,Q17228540
+,1593,Rohm Company Limited,6963,Prime Market,Electric Appliances,unknown
+,1594,Hamamatsu Photonics K.K.,6965,Prime Market,Electric Appliances,unknown
+,1595,"Mitsui High-Tec,Inc",6966,Prime Market,Electric Appliances,unknown
+,1596,"Shinko Electric Industries Co.,Ltd.",6967,Prime Market,Electric Appliances,unknown
+,1597,Kyocera Corporation,6971,Prime Market,Electric Appliances,Q745099
+,1598,"Taiyo Yuden Co.,Ltd.",6976,Prime Market,Electric Appliances,unknown
+,1599,"Murata Manufacturing Co.,Ltd.",6981,Prime Market,Electric Appliances,unknown
+,1600,Futaba Corporation,6986,Prime Market,Electric Appliances,Q632949
+,1601,Nitto Denko Corporation,6988,Prime Market,Chemicals,Q763637
+,1602,"Tokai Rika Co.,Ltd.",6995,Prime Market,Transportation Equipment,unknown
+,1603,Nichicon Corporation,6996,Prime Market,Electric Appliances,Q7024819
+,1604,Nippon Chemi-Con Corporation,6997,Prime Market,Electric Appliances,Q7039614
+,1605,Koa Corporation,6999,Prime Market,Electric Appliances,unknown
+,1606,"Mitsui E&S Co.,Ltd.",7003,Prime Market,Machinery,unknown
+,1607,Hitachi Zosen Corporation,7004,Prime Market,Machinery,Q5871699
+,1608,"Mitsubishi Heavy Industries,Ltd.",7011,Prime Market,Machinery,unknown
+,1609,"Kawasaki Heavy Industries,Ltd.",7012,Prime Market,Transportation Equipment,unknown
+,1610,Ihi Corporation,7013,Prime Market,Machinery,unknown
+,1619,"Nippon Sharyo,Ltd.",7102,Prime Market,Transportation Equipment,unknown
+,1622,"Financial Partners Group Co.,Ltd.",7148,Prime Market,Securities and Commodities Futures,unknown
+,1633,"Nishi-Nippon Financial Holdings,Inc",7189,Prime Market,Banks,unknown
+,1636,"Nissan Motor Co.,Ltd.",7201,Prime Market,Transportation Equipment,unknown
+,1637,Isuzu Motors Limited,7202,Prime Market,Transportation Equipment,unknown
+,1638,Toyota Motor Corporation,7203,Prime Market,Transportation Equipment,Q53268
+,1639,"Hino Motors,Ltd.",7205,Prime Market,Transportation Equipment,unknown
+,1640,Mitsubishi Motors Corporation,7211,Prime Market,Transportation Equipment,Q36033
+,1641,"Musashi Seimitsu Industry Co.,Ltd.",7220,Prime Market,Transportation Equipment,unknown
+,1642,"Shinmaywa Industries,Ltd.",7224,Prime Market,Transportation Equipment,unknown
+,1643,"Kyokuto Kaihatsu Kogyo Co.,Ltd.",7226,Prime Market,Transportation Equipment,unknown
+,1644,"Topy Industries,Limited",7231,Prime Market,Transportation Equipment,unknown
+,1645,"T.Rad Co., Ltd.",7236,Prime Market,Transportation Equipment,unknown
+,1646,"Akebono Brake Industry Co.,Ltd.",7238,Prime Market,Transportation Equipment,unknown
+,1647,"Tachi-S Co.,Ltd.",7239,Prime Market,Transportation Equipment,unknown
+,1648,Nok Corporation,7240,Prime Market,Transportation Equipment,unknown
+,1649,"Futaba Industrial Co.,Ltd.",7241,Prime Market,Transportation Equipment,unknown
+,1650,Kyb Corporation,7242,Prime Market,Transportation Equipment,unknown
+,1651,"Ichikoh Industries,Ltd.",7244,Prime Market,Electric Appliances,unknown
+,1652,"Daido Metal Co.,Ltd.",7245,Prime Market,Transportation Equipment,unknown
+,1653,"Press Kogyo Co.,Ltd.",7246,Prime Market,Transportation Equipment,unknown
+,1654,"Pacific Industrial Co.,Ltd.",7250,Prime Market,Transportation Equipment,unknown
+,1655,Aisin Corporation,7259,Prime Market,Transportation Equipment,unknown
+,1656,Mazda Motor Corporation,7261,Prime Market,Transportation Equipment,Q35996
+,1657,"Honda Motor Co.,Ltd.",7267,Prime Market,Transportation Equipment,unknown
+,1658,Suzuki Motor Corporation,7269,Prime Market,Transportation Equipment,Q181642
+,1659,Subaru Corporation,7270,Prime Market,Transportation Equipment,Q1051297
+,1660,"Yamaha Motor Co.,Ltd.",7272,Prime Market,Transportation Equipment,unknown
+,1661,"Koito Manufacturing Co.,Ltd.",7276,Prime Market,Electric Appliances,unknown
+,1662,Exedy Corporation,7278,Prime Market,Transportation Equipment,Q11289820
+,1663,Mitsuba Corporation,7280,Prime Market,Electric Appliances,Q18346087
+,1664,"Toyoda Gosei Co.,Ltd.",7282,Prime Market,Transportation Equipment,unknown
+,1665,"Aisan Industry Co.,Ltd.",7283,Prime Market,Transportation Equipment,unknown
+,1666,Yorozu Corporation,7294,Prime Market,Transportation Equipment,Q11346174
+,1667,"F.C.C.Co.,Ltd.",7296,Prime Market,Transportation Equipment,unknown
+,1668,Shimano Inc.,7309,Prime Market,Transportation Equipment,unknown
+,1669,"Ts Tech Co.,Ltd.",7313,Prime Market,Transportation Equipment,unknown
+,1683,Jamco Corporation,7408,Prime Market,Transportation Equipment,unknown
+,1684,"Onoken Co.,Ltd.",7414,Prime Market,Wholesale Trade,unknown
+,1685,"Nojima Co.,Ltd.",7419,Prime Market,Retail Trade,unknown
+,1686,"Satori Electric Co.,Ltd.",7420,Prime Market,Wholesale Trade,unknown
+,1687,"Kappa・Create Co.,Ltd.",7421,Prime Market,Retail Trade,unknown
+,1688,"Hakuto Co.,Ltd.",7433,Prime Market,Wholesale Trade,unknown
+,1689,Kondotec Inc.,7438,Prime Market,Wholesale Trade,unknown
+,1690,"Nagaileben Co.,Ltd.",7447,Prime Market,Wholesale Trade,unknown
+,1691,"Ryohin Keikaku Co.,Ltd.",7453,Prime Market,Retail Trade,unknown
+,1692,"Matsuda Sangyo Co.,Ltd.",7456,Prime Market,Wholesale Trade,unknown
+,1693,"Daiichikosho Co.,Ltd.",7458,Prime Market,Wholesale Trade,unknown
+,1694,Medipal Holdings Corporation,7459,Prime Market,Wholesale Trade,unknown
+,1695,Spk Corporation,7466,Prime Market,Wholesale Trade,unknown
+,1696,"Hagiwara Electric Holdings Co.,Ltd.",7467,Prime Market,Wholesale Trade,unknown
+,1698,As One Corporation,7476,Prime Market,Wholesale Trade,unknown
+,1699,"Shimojima Co.,Ltd.",7482,Prime Market,Wholesale Trade,unknown
+,1700,"Doshisha Co.,Ltd.",7483,Prime Market,Wholesale Trade,unknown
+,1701,Kohsoku Corporation,7504,Prime Market,Wholesale Trade,unknown
+,1702,G-7 Holdings Inc,7508,Prime Market,Retail Trade,unknown
+,1703,Takebishi Corporation,7510,Prime Market,Wholesale Trade,Q11270951
+,1704,"Kojima Co.,Ltd.",7513,Prime Market,Retail Trade,unknown
+,1705,"Kohnan Shoji Co.,Ltd.",7516,Prime Market,Retail Trade,unknown
+,1706,"Net One Systems Co.,Ltd.",7518,Prime Market,Information & Communication,unknown
+,1707,"Eco'S Co.,Ltd.",7520,Prime Market,Retail Trade,unknown
+,1708,"Watami Co.,Ltd.",7522,Prime Market,Retail Trade,unknown
+,1709,Rix Corporation,7525,Prime Market,Wholesale Trade,Q11348124
+,1710,Pan Pacific International Holdings Corporation,7532,Prime Market,Retail Trade,Q16485533
+,1711,Marubun Corporation,7537,Prime Market,Wholesale Trade,unknown
+,1712,"Nishimatsuya Chain Co.,Ltd.",7545,Prime Market,Retail Trade,unknown
+,1713,"Zensho Holdings Co.,Ltd.",7550,Prime Market,Retail Trade,unknown
+,1714,Happinet Corporation,7552,Prime Market,Wholesale Trade,Q11326640
+,1715,Kourakuen Holdings Corporation,7554,Prime Market,Retail Trade,unknown
+,1716,"Japan Lifeline Co.,Ltd.",7575,Prime Market,Wholesale Trade,unknown
+,1717,"Saizeriya Co.,Ltd.",7581,Prime Market,Retail Trade,unknown
+,1718,"Vt Holdings Co.,Ltd.",7593,Prime Market,Retail Trade,unknown
+,1719,Argo Graphics Inc,7595,Prime Market,Information & Communication,unknown
+,1720,"Uoriki Co.,Ltd.",7596,Prime Market,Retail Trade,unknown
+,1721,Idom Inc,7599,Prime Market,Wholesale Trade,unknown
+,1722,"Japan Medical Dynamic Marketing,Inc.",7600,Prime Market,Precision Instruments,unknown
+,1723,Fuji Corporation,7605,Prime Market,Retail Trade,Q17230076
+,1724,United Arrows Ltd.,7606,Prime Market,Retail Trade,unknown
+,1725,"Shinwa Co.,Ltd.",7607,Prime Market,Wholesale Trade,unknown
+,1726,"Daitron Co.,Ltd.",7609,Prime Market,Wholesale Trade,unknown
+,1727,Hiday Hidaka Corp.,7611,Prime Market,Retail Trade,unknown
+,1728,Siix Corporation,7613,Prime Market,Wholesale Trade,unknown
+,1729,"Colowide Co.,Ltd.",7616,Prime Market,Retail Trade,unknown
+,1730,Ohashi Technica Inc.,7628,Prime Market,Wholesale Trade,unknown
+,1731,"Ichibanya Co.,Ltd.",7630,Prime Market,Retail Trade,unknown
+,1732,"Hakudo Co.,Ltd.",7637,Prime Market,Wholesale Trade,unknown
+,1733,"Sugi Holdings Co.,Ltd.",7649,Prime Market,Retail Trade,unknown
+,1735,Shimadzu Corporation,7701,Prime Market,Precision Instruments,Q517117
+,1736,"Nagano Keiki Co.,Ltd.",7715,Prime Market,Precision Instruments,unknown
+,1737,"V Technology Co.,Ltd.",7717,Prime Market,Precision Instruments,unknown
+,1738,"Star Micronics Co.,Ltd.",7718,Prime Market,Machinery,unknown
+,1739,Tokyo Keiki Inc.,7721,Prime Market,Precision Instruments,unknown
+,1740,"Aichi Tokei Denki Co.,Ltd.",7723,Prime Market,Precision Instruments,unknown
+,1741,Inter Action Corporation,7725,Prime Market,Precision Instruments,unknown
+,1742,"Tokyo Seimitsu Co.,Ltd.",7729,Prime Market,Precision Instruments,unknown
+,1743,"Mani,Inc.",7730,Prime Market,Precision Instruments,unknown
+,1744,Nikon Corporation,7731,Prime Market,Precision Instruments,Q1218180
+,1745,Topcon Corporation,7732,Prime Market,Precision Instruments,unknown
+,1746,Olympus Corporation,7733,Prime Market,Precision Instruments,Q688619
+,1747,"Riken Keiki Co.,Ltd.",7734,Prime Market,Precision Instruments,unknown
+,1748,"Screen Holdings Co.,Ltd.",7735,Prime Market,Electric Appliances,unknown
+,1749,Canon Electronics Inc.,7739,Prime Market,Electric Appliances,unknown
+,1750,"Tamron Co.,Ltd.",7740,Prime Market,Precision Instruments,unknown
+,1751,Hoya Corporation,7741,Prime Market,Precision Instruments,Q368777
+,1752,"Seed Co.,Ltd.",7743,Prime Market,Precision Instruments,unknown
+,1753,"Noritsu Koki Co.,Ltd.",7744,Prime Market,Precision Instruments,unknown
+,1754,"A&D Holon Holdings Company,Limited",7745,Prime Market,Precision Instruments,unknown
+,1755,"Asahi Intecc Co.,Ltd.",7747,Prime Market,Precision Instruments,unknown
+,1756,Canon Inc.,7751,Prime Market,Electric Appliances,Q62621
+,1757,"Ricoh Company,Ltd.",7752,Prime Market,Electric Appliances,unknown
+,1758,"Citizen Watch Co.,Ltd.",7762,Prime Market,Precision Instruments,unknown
+,1759,"Rhythm Co.,Ltd.",7769,Prime Market,Precision Instruments,unknown
+,1762,"Paramount Bed Holdings Co.,Ltd.",7817,Prime Market,Other Products,unknown
+,1763,"Transaction Co.,Ltd.",7818,Prime Market,Other Products,unknown
+,1764,"Nihon Flush Co.,Ltd.",7820,Prime Market,Other Products,unknown
+,1765,"Maeda Kosen Co.,Ltd.",7821,Prime Market,Other Products,unknown
+,1766,Bandai Namco Holdings Inc,7832,Prime Market,Other Products,unknown
+,1767,"Shoei Co.,Ltd.",7839,Prime Market,Other Products,unknown
+,1768,"France Bed Holdings Co.,Ltd.",7840,Prime Market,Other Products,unknown
+,1769,Marvelous Inc,7844,Prime Market,Information & Communication,unknown
+,1770,Pilot Corporation,7846,Prime Market,Other Products,Q1356034
+,1771,Hagihara Industries Inc.,7856,Prime Market,Other Products,unknown
+,1772,Avex Inc,7860,Prime Market,Information & Communication,unknown
+,1773,"Fuji Seal International,Inc.",7864,Prime Market,Other Products,unknown
+,1774,"Tomy Company,Ltd.",7867,Prime Market,Other Products,unknown
+,1775,"Kosaido Holdings Co.,Ltd.",7868,Prime Market,Other Products,unknown
+,1776,"Lec,Inc.",7874,Prime Market,Chemicals,unknown
+,1777,Sanko Gosei Ltd.,7888,Prime Market,Chemicals,unknown
+,1778,Pronexus Inc.,7893,Prime Market,Other Products,unknown
+,1780,Toppan Holdings Inc,7911,Prime Market,Other Products,unknown
+,1781,"Dai Nippon Printing Co.,Ltd.",7912,Prime Market,Other Products,unknown
+,1782,"Kyodo Printing Co.,Ltd.",7914,Prime Market,Other Products,unknown
+,1783,"Nissha Co.,Ltd.",7915,Prime Market,Other Products,unknown
+,1784,"Fujimori Kogyo Co.,Ltd.",7917,Prime Market,Chemicals,unknown
+,1785,Takara & Company Ltd.,7921,Prime Market,Other Products,unknown
+,1786,"Maezawa Kasei Industries Co.,Ltd.",7925,Prime Market,Chemicals,unknown
+,1788,Asics Corporation,7936,Prime Market,Other Products,unknown
+,1789,Jsp Corporation,7942,Prime Market,Chemicals,unknown
+,1790,Nichiha Corporation,7943,Prime Market,Glass and Ceramics Products,Q11324396
+,1791,Roland Corporation,7944,Prime Market,Other Products,Q848490
+,1792,Fp Corporation,7947,Prime Market,Chemicals,unknown
+,1793,"Komatsu Wall Industry Co.,Ltd.",7949,Prime Market,Other Products,unknown
+,1794,Yamaha Corporation,7951,Prime Market,Other Products,Q188454
+,1795,"Kawai Musical Instruments Manufacturing Co.,Ltd.",7952,Prime Market,Other Products,unknown
+,1796,Cleanup Corporation,7955,Prime Market,Other Products,Q11299390
+,1797,Pigeon Corporation,7956,Prime Market,Other Products,Q11331467
+,1798,Tenma Corporation,7958,Prime Market,Chemicals,unknown
+,1799,"King Jim Co.,Ltd.",7962,Prime Market,Other Products,unknown
+,1800,Zojirushi Corporation,7965,Prime Market,Electric Appliances,Q1101230
+,1801,Lintec Corporation,7966,Prime Market,Other Products,Q11348657
+,1802,"Shin-Etsu Polymer Co.,Ltd.",7970,Prime Market,Chemicals,unknown
+,1803,Itoki Corporation,7972,Prime Market,Other Products,Q11286855
+,1804,"Nintendo Co.,Ltd.",7974,Prime Market,Other Products,unknown
+,1805,"Mitsubishi Pencil Company,Limited",7976,Prime Market,Other Products,unknown
+,1806,Shofu Inc.,7979,Prime Market,Precision Instruments,unknown
+,1807,"Takara Standard Co.,Ltd.",7981,Prime Market,Other Products,unknown
+,1808,"Kokuyo Co.,Ltd.",7984,Prime Market,Other Products,unknown
+,1809,Nifco Inc.,7988,Prime Market,Chemicals,unknown
+,1810,Tachikawa Corporation,7989,Prime Market,Metal Products,Q11597877
+,1811,"Globeride,Inc",7990,Prime Market,Other Products,unknown
+,1812,Okamura Corporation,7994,Prime Market,Other Products,Q11473333
+,1813,"Valqua,Ltd.",7995,Prime Market,Chemicals,unknown
+,1814,Itochu Corporation,8001,Prime Market,Wholesale Trade,unknown
+,1815,Marubeni Corporation,8002,Prime Market,Wholesale Trade,unknown
+,1816,Scroll Corporation,8005,Prime Market,Retail Trade,Q11311527
+,1817,"Takashima & Co.,Ltd.",8007,Prime Market,Wholesale Trade,unknown
+,1818,Yondoshi Holdings Inc.,8008,Prime Market,Retail Trade,unknown
+,1819,Sanyo Shokai Ltd.,8011,Prime Market,Textiles and Apparels,unknown
+,1820,"Nagase & Co.,Ltd.",8012,Prime Market,Wholesale Trade,unknown
+,1821,"Chori Co.,Ltd.",8014,Prime Market,Wholesale Trade,unknown
+,1822,Toyota Tsusho Corporation,8015,Prime Market,Wholesale Trade,Q716457
+,1823,"Onward Holdings Co.,Ltd.",8016,Prime Market,Textiles and Apparels,unknown
+,1824,Kanematsu Corporation,8020,Prime Market,Wholesale Trade,unknown
+,1825,Mizuno Corporation,8022,Prime Market,Other Products,Q1156731
+,1826,"Mitsui & Co.,Ltd.",8031,Prime Market,Wholesale Trade,unknown
+,1827,Japan Pulp And Paper Company Limited,8032,Prime Market,Wholesale Trade,unknown
+,1828,Tokyo Electron Limited,8035,Prime Market,Electric Appliances,unknown
+,1829,Kamei Corporation,8037,Prime Market,Wholesale Trade,Q11294803
+,1830,Starzen Company Limited,8043,Prime Market,Wholesale Trade,unknown
+,1831,Seiko Group Corporation,8050,Prime Market,Precision Instruments,unknown
+,1832,Yamazen Corporation,8051,Prime Market,Wholesale Trade,Q11467670
+,1833,"Tsubakimoto Kogyo Co.,Ltd.",8052,Prime Market,Wholesale Trade,unknown
+,1834,"Sumitomo Corporation (Sumitomo Shoji Kaisha,Ltd.)",8053,Prime Market,Wholesale Trade,unknown
+,1835,Biprogy Inc,8056,Prime Market,Information & Communication,unknown
+,1836,"Uchida Yoko Co.,Ltd.",8057,Prime Market,Wholesale Trade,unknown
+,1837,Mitsubishi Corporation,8058,Prime Market,Wholesale Trade,Q650745
+,1838,"Daiichi Jitsugyo Co.,Ltd.",8059,Prime Market,Wholesale Trade,unknown
+,1839,Canon Marketing Japan Inc,8060,Prime Market,Wholesale Trade,unknown
+,1840,Seika Corporation,8061,Prime Market,Wholesale Trade,Q11629460
+,1841,Sato Shoji Corporation,8065,Prime Market,Wholesale Trade,unknown
+,1843,"Tokyo Sangyo Co.,Ltd.",8070,Prime Market,Wholesale Trade,unknown
+,1844,"Yuasa Trading Co.,Ltd.",8074,Prime Market,Wholesale Trade,unknown
+,1845,Shinsho Corporation,8075,Prime Market,Wholesale Trade,Q11590998
+,1846,"Hanwa Co.,Ltd.",8078,Prime Market,Wholesale Trade,unknown
+,1847,Shoei Foods Corporation,8079,Prime Market,Wholesale Trade,unknown
+,1848,Kanaden Corporation,8081,Prime Market,Wholesale Trade,Q11294443
+,1849,Ryoden Corporation,8084,Prime Market,Wholesale Trade,unknown
+,1850,Nipro Corporation,8086,Prime Market,Precision Instruments,unknown
+,1851,Iwatani  Corporation,8088,Prime Market,Wholesale Trade,unknown
+,1852,"Nichimo Co.,Ltd.",8091,Prime Market,Wholesale Trade,unknown
+,1853,"Kyokuto Boeki Kaisha,Limited",8093,Prime Market,Wholesale Trade,unknown
+,1854,"Astena Holdings Co.,Ltd.",8095,Prime Market,Wholesale Trade,unknown
+,1855,"San-Ai Obbli Co.,Ltd.",8097,Prime Market,Wholesale Trade,unknown
+,1856,"Inabata & Co.,Ltd.",8098,Prime Market,Wholesale Trade,unknown
+,1857,Gsi Creos Corporation,8101,Prime Market,Wholesale Trade,unknown
+,1858,Meiwa Corporation,8103,Prime Market,Wholesale Trade,unknown
+,1859,Goldwin Inc.,8111,Prime Market,Textiles and Apparels,unknown
+,1860,Unicharm Corporation,8113,Prime Market,Chemicals,unknown
+,1861,"Descente,Ltd.",8114,Prime Market,Textiles and Apparels,unknown
+,1862,"Wakita & Co.,Ltd.",8125,Prime Market,Wholesale Trade,unknown
+,1863,"Toho Holdings Co.,Ltd.",8129,Prime Market,Wholesale Trade,unknown
+,1864,Sangetsu Corporation,8130,Prime Market,Wholesale Trade,unknown
+,1865,"Sinanen Holdings Co.,Ltd.",8132,Prime Market,Wholesale Trade,unknown
+,1866,"Itochu Enex Co.,Ltd.",8133,Prime Market,Wholesale Trade,unknown
+,1867,"Sanrio Company,Ltd.",8136,Prime Market,Wholesale Trade,unknown
+,1868,Sun-Wa Technos Corporation,8137,Prime Market,Wholesale Trade,unknown
+,1870,"Shinko Shoji Co.,Ltd.",8141,Prime Market,Wholesale Trade,unknown
+,1871,"Toho Co.,Ltd.",8142,Prime Market,Wholesale Trade,unknown
+,1872,"Sanshin Electronics Co.,Ltd.",8150,Prime Market,Wholesale Trade,unknown
+,1873,Toyo Corporation,8151,Prime Market,Wholesale Trade,Q11528672
+,1874,"Mos Food Services,Inc.",8153,Prime Market,Wholesale Trade,unknown
+,1875,"Kaga Electronics Co.,Ltd.",8154,Prime Market,Wholesale Trade,unknown
+,1876,"Mimasu Semiconductor Industry Co.,Ltd.",8155,Prime Market,Metal Products,unknown
+,1877,"Tsuzuki Denki Co.,Ltd.",8157,Prime Market,Information & Communication,unknown
+,1878,"Soda Nikka Co.,Ltd.",8158,Prime Market,Wholesale Trade,unknown
+,1879,"Tachibana Eletech Co.,Ltd.",8159,Prime Market,Wholesale Trade,unknown
+,1880,"Kisoji Co.,Ltd.",8160,Prime Market,Retail Trade,unknown
+,1881,"Srs Holdings Co.,Ltd.",8163,Prime Market,Retail Trade,unknown
+,1882,"Retail Partners Co.,Ltd.",8167,Prime Market,Retail Trade,unknown
+,1884,"Joshin Denki Co.,Ltd.",8173,Prime Market,Retail Trade,unknown
+,1885,"Nippon Gas Co.,Ltd.",8174,Prime Market,Retail Trade,unknown
+,1886,"Royal Holdings Co., Ltd.",8179,Prime Market,Retail Trade,Q11350142
+,1887,"Inageya Co.,Ltd.",8182,Prime Market,Retail Trade,unknown
+,1888,"Chiyoda Co.,Ltd.",8185,Prime Market,Retail Trade,unknown
+,1889,Life Corporation,8194,Prime Market,Retail Trade,Q11346476
+,1890,"Ringer Hut Co.,Ltd.",8200,Prime Market,Retail Trade,unknown
+,1891,Mrmax Holdings Ltd.,8203,Prime Market,Retail Trade,unknown
+,1892,Aoki Holdings Inc,8214,Prime Market,Retail Trade,unknown
+,1893,"Okuwa Co.,Ltd.",8217,Prime Market,Retail Trade,unknown
+,1894,"Komeri Co.,Ltd.",8218,Prime Market,Retail Trade,unknown
+,1895,"Aoyama Trading Co.,Ltd.",8219,Prime Market,Retail Trade,unknown
+,1896,"Shimamura Co.,Ltd.",8227,Prime Market,Retail Trade,unknown
+,1897,"Takashimaya Company,Limited",8233,Prime Market,Retail Trade,unknown
+,1898,"Matsuya Co.,Ltd.",8237,Prime Market,Retail Trade,unknown
+,1899,H2O Retailing Corporation,8242,Prime Market,Retail Trade,unknown
+,1900,"Marui Group Co.,Ltd.",8252,Prime Market,Retail Trade,unknown
+,1901,"Credit Saison Co.,Ltd.",8253,Prime Market,Other Financing Business,unknown
+,1902,Axial Retailing Inc,8255,Prime Market,Retail Trade,unknown
+,1903,"Aeon Co.,Ltd.",8267,Prime Market,Retail Trade,unknown
+,1904,"Izumi Co.,Ltd.",8273,Prime Market,Retail Trade,unknown
+,1905,"Heiwado Co.,Ltd.",8276,Prime Market,Retail Trade,unknown
+,1906,"Fuji Co.,Ltd.",8278,Prime Market,Retail Trade,unknown
+,1907,"Yaoko Co.,Ltd",8279,Prime Market,Retail Trade,unknown
+,1908,"Xebio Holdings Co.,Ltd.",8281,Prime Market,Retail Trade,unknown
+,1909,K'S Holdings Corporation,8282,Prime Market,Retail Trade,unknown
+,1910,Paltac Corporation,8283,Prime Market,Wholesale Trade,Q11239315
+,1911,"Aozora Bank,Ltd.",8304,Prime Market,Banks,unknown
+,1912,"Mitsubishi Ufj Financial Group,Inc",8306,Prime Market,Banks,unknown
+,1913,"Resona Holdings, Inc",8308,Prime Market,Banks,unknown
+,1914,"Sumitomo Mitsui Trust Holdings,Inc",8309,Prime Market,Banks,unknown
+,1915,"Sumitomo Mitsui Financial Group,Inc",8316,Prime Market,Banks,unknown
+,1916,"The Chiba Bank,Ltd.",8331,Prime Market,Banks,unknown
+,1917,"The Gunma Bank,Ltd.",8334,Prime Market,Banks,unknown
+,1918,"The Musashino Bank,Ltd.",8336,Prime Market,Banks,unknown
+,1919,"The Chiba Kogyo Bank,Ltd.",8337,Prime Market,Banks,unknown
+,1920,"Tsukuba Bank,Ltd.",8338,Prime Market,Banks,unknown
+,1921,"The 77 Bank,Ltd.",8341,Prime Market,Banks,unknown
+,1922,"The Akita Bank,Ltd.",8343,Prime Market,Banks,unknown
+,1923,"The Yamagata Bank,Ltd.",8344,Prime Market,Banks,unknown
+,1924,"The Bank Of Iwate,Ltd.",8345,Prime Market,Banks,unknown
+,1925,"The Toho Bank,Ltd.",8346,Prime Market,Banks,unknown
+,1926,"Fukuoka Financial Group,Inc",8354,Prime Market,Banks,unknown
+,1927,Suruga Bank Ltd.,8358,Prime Market,Banks,unknown
+,1928,"The Hachijuni Bank,Ltd.",8359,Prime Market,Banks,unknown
+,1929,"The Yamanashi Chuo Bank,Ltd.",8360,Prime Market,Banks,unknown
+,1930,"The Ogaki Kyoritsu Bank,Ltd.",8361,Prime Market,Banks,unknown
+,1931,"The Fukui Bank,Ltd.",8362,Prime Market,Banks,unknown
+,1932,"The Shimizu Bank,Ltd.",8364,Prime Market,Banks,unknown
+,1933,"The Shiga Bank,Ltd.",8366,Prime Market,Banks,unknown
+,1934,"The Nanto Bank,Ltd.",8367,Prime Market,Banks,unknown
+,1935,"The Hyakugo Bank,Ltd.",8368,Prime Market,Banks,unknown
+,1937,"Hokuhoku Financial Group, Inc",8377,Prime Market,Banks,unknown
+,1938,"The San-In Godo Bank,Ltd.",8381,Prime Market,Banks,unknown
+,1939,"The Hyakujushi Bank,Ltd.",8386,Prime Market,Banks,unknown
+,1940,The Shikoku Bank Ltd.,8387,Prime Market,Banks,unknown
+,1941,"The Awa Bank,Ltd.",8388,Prime Market,Banks,unknown
+,1942,"The Oita Bank,Ltd.",8392,Prime Market,Banks,unknown
+,1943,"The Miyazaki Bank,Ltd.",8393,Prime Market,Banks,unknown
+,1944,The Bank Of Saga Ltd.,8395,Prime Market,Banks,unknown
+,1945,"Bank Of The Ryukyus,Limited",8399,Prime Market,Banks,unknown
+,1946,"Seven Bank,Ltd.",8410,Prime Market,Banks,unknown
+,1947,"Mizuho Financial Group,Inc",8411,Prime Market,Banks,unknown
+,1948,"Yamaguchi Financial Group,Inc",8418,Prime Market,Banks,unknown
+,1949,"Fuyo General Lease Co.,Ltd.",8424,Prime Market,Other Financing Business,unknown
+,1950,"Mizuho Leasing Company,Limited",8425,Prime Market,Other Financing Business,unknown
+,1951,Tokyo Century Corporation,8439,Prime Market,Other Financing Business,Q11524212
+,1952,"Sbi Holdings,Inc",8473,Prime Market,Securities and Commodities Futures,unknown
+,1953,"Japan Securities Finance Co.,Ltd.",8511,Prime Market,Other Financing Business,unknown
+,1954,Aiful Corporation,8515,Prime Market,Other Financing Business,unknown
+,1955,"The Bank Of Nagoya,Ltd.",8522,Prime Market,Banks,unknown
+,1956,"North Pacific Bank,Ltd.",8524,Prime Market,Banks,unknown
+,1957,"The Ehime Bank,Ltd.",8541,Prime Market,Banks,unknown
+,1958,"The Keiyo Bank,Ltd.",8544,Prime Market,Banks,unknown
+,1959,"The Tochigi Bank,Ltd.",8550,Prime Market,Banks,unknown
+,1960,"The Kita-Nippon Bank,Ltd.",8551,Prime Market,Banks,unknown
+,1961,"The Towa Bank,Ltd.",8558,Prime Market,Banks,unknown
+,1962,"Ricoh Leasing Company,Ltd.",8566,Prime Market,Other Financing Business,unknown
+,1963,"Aeon Financial Service Co.,Ltd.",8570,Prime Market,Other Financing Business,unknown
+,1964,"Jaccs Co.,Ltd.",8584,Prime Market,Other Financing Business,unknown
+,1965,Orient Corporation,8585,Prime Market,Other Financing Business,Q11292572
+,1966,Orix Corporation,8591,Prime Market,Other Financing Business,Q906055
+,1967,Mitsubishi Hc Capital Inc,8593,Prime Market,Other Financing Business,unknown
+,1968,"Jafco Group Co.,Ltd.",8595,Prime Market,Securities and Commodities Futures,unknown
+,1969,"Tomony Holdings,Inc",8600,Prime Market,Banks,unknown
+,1970,Daiwa Securities Group Inc,8601,Prime Market,Securities and Commodities Futures,unknown
+,1971,"Nomura Holdings, Inc",8604,Prime Market,Securities and Commodities Futures,unknown
+,1972,Okasan Securities Group Inc.,8609,Prime Market,Securities and Commodities Futures,unknown
+,1973,"Marusan Securities Co.,Ltd.",8613,Prime Market,Securities and Commodities Futures,unknown
+,1974,"Toyo Securities Co.,Ltd.",8614,Prime Market,Securities and Commodities Futures,unknown
+,1975,"Tokai Tokyo Financial Holdings,Inc",8616,Prime Market,Securities and Commodities Futures,unknown
+,1976,"Mito Securities Co.,Ltd.",8622,Prime Market,Securities and Commodities Futures,unknown
+,1977,"Ichiyoshi Securities Co.,Ltd.",8624,Prime Market,Securities and Commodities Futures,unknown
+,1978,"Matsui Securities Co.,Ltd.",8628,Prime Market,Securities and Commodities Futures,unknown
+,1979,"Sompo Holdings,Inc",8630,Prime Market,Insurance,unknown
+,1980,"Japan Exchange Group,Inc",8697,Prime Market,Other Financing Business,unknown
+,1981,"Monex Group,Inc",8698,Prime Market,Securities and Commodities Futures,unknown
+,1982,"Kyokuto Securities Co.,Ltd.",8706,Prime Market,Securities and Commodities Futures,unknown
+,1983,"Iwaicosmo Holdings,Inc",8707,Prime Market,Securities and Commodities Futures,unknown
+,1984,"Aizawa Securities Group Co.,Ltd.",8708,Prime Market,Securities and Commodities Futures,unknown
+,1985,Fidea Holdings Co.Ltd.,8713,Prime Market,Banks,unknown
+,1986,"Senshu Ikeda Holdings,Inc",8714,Prime Market,Banks,unknown
+,1987,"Anicom Holdings,Inc",8715,Prime Market,Insurance,unknown
+,1988,"Ms&Ad Insurance Group Holdings,Inc",8725,Prime Market,Insurance,unknown
+,1989,"Sparx Group Co.,Ltd.",8739,Prime Market,Securities and Commodities Futures,unknown
+,1990,"Dai-Ichi Life Holdings,Inc",8750,Prime Market,Insurance,unknown
+,1991,"Tokio Marine Holdings,Inc",8766,Prime Market,Insurance,unknown
+,1992,"Eguarantee,Inc",8771,Prime Market,Other Financing Business,unknown
+,1993,Nec Capital Solutions Limited,8793,Prime Market,Other Financing Business,unknown
+,1994,"T&D Holdings, Inc",8795,Prime Market,Insurance,unknown
+,1995,"Advance Create Co.,Ltd.",8798,Prime Market,Insurance,unknown
+,1996,"Mitsui Fudosan Co.,Ltd.",8801,Prime Market,Real Estate,unknown
+,1997,"Mitsubishi Estate Company,Limited",8802,Prime Market,Real Estate,unknown
+,1998,"Heiwa Real Estate Co.,Ltd.",8803,Prime Market,Real Estate,unknown
+,1999,"Tokyo Tatemono Co.,Ltd.",8804,Prime Market,Real Estate,unknown
+,2000,"Keihanshin Building Co.,Ltd.",8818,Prime Market,Real Estate,unknown
+,2001,"Sumitomo Realty & Development Co.,Ltd.",8830,Prime Market,Real Estate,unknown
+,2003,Leopalace21 Corporation,8848,Prime Market,Real Estate,unknown
+,2004,Starts Corporation Inc.,8850,Prime Market,Real Estate,unknown
+,2005,Fuji Corporation Limited,8860,Prime Market,Real Estate,Q11333311
+,2006,"Airport Facilities Co.,Ltd.",8864,Prime Market,Real Estate,unknown
+,2007,"Relo Group,Inc",8876,Prime Market,Services,unknown
+,2008,Eslead Corporation,8877,Prime Market,Real Estate,unknown
+,2009,"Nisshin Group Holdings Company,Limited",8881,Prime Market,Real Estate,unknown
+,2010,Es-Con Japan Ltd.,8892,Prime Market,Real Estate,unknown
+,2011,"Mirarth Holdings,Inc",8897,Prime Market,Real Estate,unknown
+,2012,"Aeon Mall Co.,Ltd.",8905,Prime Market,Real Estate,unknown
+,2013,"Katitas Co.,Ltd",8919,Prime Market,Real Estate,unknown
+,2014,Tosei Corporation,8923,Prime Market,Real Estate,unknown
+,2015,"Sun Frontier Fudousan Co.,Ltd.",8934,Prime Market,Real Estate,unknown
+,2016,"Fj Next Holdings Co.,Ltd.",8935,Prime Market,Real Estate,unknown
+,2017,Grandy House Corporation,8999,Prime Market,Real Estate,unknown
+,2018,"Tobu Railway Co.,Ltd.",9001,Prime Market,Land Transportation,unknown
+,2019,"Sotetsu Holdings,Inc",9003,Prime Market,Land Transportation,unknown
+,2020,Tokyu Corporation,9005,Prime Market,Land Transportation,Q1332242
+,2021,Keikyu Corporation,9006,Prime Market,Land Transportation,Q1322206
+,2022,"Odakyu Electric Railway Co.,Ltd.",9007,Prime Market,Land Transportation,unknown
+,2023,Keio Corporation,9008,Prime Market,Land Transportation,Q1332506
+,2024,"Keisei Electric Railway Co.,Ltd.",9009,Prime Market,Land Transportation,unknown
+,2025,"Fuji Kyuko Co.,Ltd.",9010,Prime Market,Land Transportation,unknown
+,2026,East Japan Railway Company,9020,Prime Market,Land Transportation,Q499071
+,2027,West Japan Railway Company,9021,Prime Market,Land Transportation,Q502125
+,2028,Central Japan Railway Company,9022,Prime Market,Land Transportation,Q513679
+,2031,"Nishi-Nippon Railroad Co.,Ltd.",9031,Prime Market,Land Transportation,unknown
+,2032,"Hamakyorex Co.,Ltd.",9037,Prime Market,Land Transportation,unknown
+,2033,"Sakai Moving Service Co.,Ltd.",9039,Prime Market,Land Transportation,unknown
+,2034,"Kintetsu Group Holdings Co.,Ltd.",9041,Prime Market,Land Transportation,unknown
+,2035,"Hankyu Hanshin Holdings,Inc",9042,Prime Market,Land Transportation,unknown
+,2036,"Nankai Electric Railway Co.,Ltd.",9044,Prime Market,Land Transportation,unknown
+,2037,"Keihan Holdings Co.,Ltd.",9045,Prime Market,Land Transportation,unknown
+,2038,"Kobe Electric Railway Co.,Ltd.",9046,Prime Market,Land Transportation,Q836658
+,2039,"Nagoya Railroad Co., Ltd.",9048,Prime Market,Land Transportation,unknown
+,2040,"Sanyo Electric Railway Co.,Ltd.",9052,Prime Market,Land Transportation,unknown
+,2041,"Alps Logistics Co.,Ltd.",9055,Prime Market,Land Transportation,unknown
+,2042,"Trancom Co.,Ltd.",9058,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2043,"Yamato Holdings Co.,Ltd.",9064,Prime Market,Land Transportation,unknown
+,2044,Sankyu Inc.,9065,Prime Market,Land Transportation,unknown
+,2045,Nissin Corporation,9066,Prime Market,Warehousing and Harbor Transportation Service,Q11505353
+,2046,"Maruzen Showa Unyu Co.,Ltd.",9068,Prime Market,Land Transportation,unknown
+,2047,"Senko Group Holdings Co.,Ltd.",9069,Prime Market,Land Transportation,unknown
+,2048,"Tonami Holdings Co.,Ltd.",9070,Prime Market,Land Transportation,unknown
+,2049,"Nikkon Holdings Co.,Ltd.",9072,Prime Market,Land Transportation,unknown
+,2050,"Fukuyama Transporting Co.,Ltd.",9075,Prime Market,Land Transportation,unknown
+,2051,"Seino Holdings Co.,Ltd.",9076,Prime Market,Land Transportation,unknown
+,2052,"Kanagawa Chuo Kotsu Co.,Ltd.",9081,Prime Market,Land Transportation,unknown
+,2053,Az-Com Maruwa Holdings Inc,9090,Prime Market,Land Transportation,unknown
+,2055,Nippon Yusen Kabushiki Kaisha,9101,Prime Market,Marine Transportation,Q1478918
+,2056,"Mitsui O.S.K.Lines,Ltd.",9104,Prime Market,Marine Transportation,unknown
+,2057,"Kawasaki Kisen Kaisha,Ltd.",9107,Prime Market,Marine Transportation,unknown
+,2058,"Ns United Kaiun Kaisha,Ltd.",9110,Prime Market,Marine Transportation,unknown
+,2059,"Iino Kaiun Kaisha,Ltd.",9119,Prime Market,Marine Transportation,unknown
+,2064,"Japan Airlines Co.,Ltd.",9201,Prime Market,Air Transportation,unknown
+,2065,Ana Holdings Inc.,9202,Prime Market,Air Transportation,unknown
+,2070,"Genky Drugstores Co.,Ltd.",9267,Prime Market,Retail Trade,unknown
+,2075,Mitsubishi Logistics Corporation,9301,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2076,"Mitsui-Soko Holdings Co.,Ltd.",9302,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2077,"The Sumitomo Warehouse Co.,Ltd.",9303,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2078,"The Shibusawa Warehouse Co.,Ltd.",9304,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2079,Yamatane Corporation,9305,Prime Market,Wholesale Trade,Q11345149
+,2080,Japan Transcity Corporation,9310,Prime Market,Warehousing and Harbor Transportation Service,Q11506702
+,2081,"Chuo Warehouse Co.,Ltd.",9319,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2082,Yasuda Logistics Corporation,9324,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2085,"Nippon Kanzai Holdings Co.,Ltd.",9347,Prime Market,Services,unknown
+,2086,"Kamigumi Co.,Ltd.",9364,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2087,Ait Corporation,9381,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2088,Naigai Trans Line Ltd.,9384,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2089,Nippon Concept Corporation,9386,Prime Market,Warehousing and Harbor Transportation Service,unknown
+,2090,"Tbs Holdings,Inc.",9401,Prime Market,Information & Communication,unknown
+,2091,"Nippon Television Holdings,Inc",9404,Prime Market,Information & Communication,unknown
+,2092,Asahi Broadcasting Group Holdings Corporation,9405,Prime Market,Information & Communication,unknown
+,2093,Tv Asahi Holdings Corporation,9409,Prime Market,Information & Communication,unknown
+,2094,Sky Perfect Jsat Holdings Inc,9412,Prime Market,Information & Communication,unknown
+,2095,Tv Tokyo Holdings Corporation,9413,Prime Market,Information & Communication,unknown
+,2098,Japan Communications Inc,9424,Prime Market,Information & Communication,unknown
+,2099,Nippon Telegraph And Telephone Corporation,9432,Prime Market,Information & Communication,unknown
+,2100,Kddi Corporation,9433,Prime Market,Information & Communication,unknown
+,2103,"Hikari Tsushin,Inc.",9435,Prime Market,Information & Communication,unknown
+,2104,Mti Ltd.,9438,Prime Market,Information & Communication,unknown
+,2105,"Gmo Internet Group,Inc",9449,Prime Market,Information & Communication,unknown
+,2108,"Gakken Holdings Co.,Ltd.",9470,Prime Market,Information & Communication,unknown
+,2109,"Zenrin Co.,Ltd.",9474,Prime Market,Information & Communication,unknown
+,2110,"Tokyo Electric Power Company Holdings,Incorporated",9501,Prime Market,Electric Power and Gas,unknown
+,2111,"Chubu Electric Power Company,Incorporated",9502,Prime Market,Electric Power and Gas,unknown
+,2112,"The Kansai Electric Power Company,Incorporated",9503,Prime Market,Electric Power and Gas,unknown
+,2113,"The Chugoku Electric Power Company,Incorporated",9504,Prime Market,Electric Power and Gas,unknown
+,2114,Hokuriku Electric Power Company,9505,Prime Market,Electric Power and Gas,Q742461
+,2115,"Tohoku Electric Power Company,Incorporated",9506,Prime Market,Electric Power and Gas,unknown
+,2116,"Shikoku Electric Power Company,Incorporated",9507,Prime Market,Electric Power and Gas,unknown
+,2117,"Kyushu Electric Power Company,Incorporated",9508,Prime Market,Electric Power and Gas,unknown
+,2118,"Hokkaido Electric Power Company,Incorporated",9509,Prime Market,Electric Power and Gas,unknown
+,2119,"The Okinawa Electric Power Company,Incorporated",9511,Prime Market,Electric Power and Gas,unknown
+,2120,"Electric Power Development Co.,Ltd.",9513,Prime Market,Electric Power and Gas,Q3805077
+,2123,"Tokyo Gas Co.,Ltd.",9531,Prime Market,Electric Power and Gas,unknown
+,2124,"Osaka Gas Co.,Ltd.",9532,Prime Market,Electric Power and Gas,unknown
+,2125,"Toho Gas Co.,Ltd.",9533,Prime Market,Electric Power and Gas,unknown
+,2126,"Hokkaido Gas Co.,Ltd.",9534,Prime Market,Electric Power and Gas,unknown
+,2127,"Hiroshima Gas Co.,Ltd.",9535,Prime Market,Electric Power and Gas,unknown
+,2128,"Saibu Gas Holdings Co.,Ltd.",9536,Prime Market,Electric Power and Gas,unknown
+,2129,"Shizuoka Gas Co.,Ltd.",9543,Prime Market,Electric Power and Gas,unknown
+,2132,I-Net Corp.,9600,Prime Market,Information & Communication,unknown
+,2133,"Shochiku Co.,Ltd.",9601,Prime Market,Information & Communication,unknown
+,2134,"Toho Co.,Ltd",9602,Prime Market,Information & Communication,unknown
+,2135,"H.I.S.Co.,Ltd.",9603,Prime Market,Services,unknown
+,2136,"Toei Company,Ltd.",9605,Prime Market,Information & Communication,unknown
+,2137,"Luckland Co.,Ltd.",9612,Prime Market,Services,unknown
+,2138,Ntt Data Group Corporation,9613,Prime Market,Information & Communication,unknown
+,2139,"Kyoritsu Maintenance Co.,Ltd.",9616,Prime Market,Services,unknown
+,2140,"Ichinen Holdings Co.,Ltd.",9619,Prime Market,Services,unknown
+,2141,"Cti Engineering Co.,Ltd.",9621,Prime Market,Services,unknown
+,2142,"Space Co.,Ltd.",9622,Prime Market,Services,unknown
+,2143,Ain Holdings Inc.,9627,Prime Market,Retail Trade,unknown
+,2144,"San Holdings,Inc.",9628,Prime Market,Services,unknown
+,2145,Pca Corporation,9629,Prime Market,Information & Communication,unknown
+,2146,"Tanabe Consulting Group Co.,Ltd.",9644,Prime Market,Services,unknown
+,2147,Business Brain Showa・Ota Inc.,9658,Prime Market,Information & Communication,unknown
+,2148,"Nagawa Co.,Ltd",9663,Prime Market,Services,unknown
+,2149,"Tokyotokeiba Co.,Ltd.",9672,Prime Market,Services,unknown
+,2150,"Kanamoto Co.,Ltd.",9678,Prime Market,Services,unknown
+,2151,Dts Corporation,9682,Prime Market,Information & Communication,unknown
+,2152,"Square Enix Holdings Co.,Ltd.",9684,Prime Market,Information & Communication,unknown
+,2153,Computer Engineering & Consulting Ltd.,9692,Prime Market,Information & Communication,unknown
+,2154,"Capcom Co.,Ltd.",9697,Prime Market,Information & Communication,unknown
+,2155,"Nishio Holdings Co.,Ltd.",9699,Prime Market,Services,unknown
+,2156,Isb Corporation,9702,Prime Market,Information & Communication,unknown
+,2157,"Japan Airport Terminal Co.,Ltd.",9706,Prime Market,Real Estate,unknown
+,2158,Transcosmos Inc.,9715,Prime Market,Services,unknown
+,2159,"Nomura Co.,Ltd.",9716,Prime Market,Services,unknown
+,2160,"Jastec Co.,Ltd.",9717,Prime Market,Information & Communication,unknown
+,2161,Scsk Corporation,9719,Prime Market,Information & Communication,unknown
+,2162,Fujita Kanko Inc.,9722,Prime Market,Services,unknown
+,2163,Tokai Corp.,9729,Prime Market,Services,unknown
+,2164,"Secom Co.,Ltd.",9735,Prime Market,Services,unknown
+,2165,Nsw Inc,9739,Prime Market,Information & Communication,unknown
+,2166,"Central Security Patrols Co.,Ltd.",9740,Prime Market,Services,unknown
+,2167,Ines Corporation,9742,Prime Market,Information & Communication,unknown
+,2168,"Tanseisha Co.,Ltd.",9743,Prime Market,Services,unknown
+,2169,Meitec Group Holdings Inc,9744,Prime Market,Services,unknown
+,2170,Tkc Corporation,9746,Prime Market,Information & Communication,unknown
+,2171,Fuji Soft Incorporated,9749,Prime Market,Information & Communication,unknown
+,2172,Oyo Corporation,9755,Prime Market,Services,Q11491277
+,2173,Funai Soken Holdings Incorporated,9757,Prime Market,Services,unknown
+,2174,"Nsd Co.,Ltd.",9759,Prime Market,Information & Communication,unknown
+,2175,"Ohba Co.,Ltd.",9765,Prime Market,Services,unknown
+,2176,Konami Group Corporation,9766,Prime Market,Information & Communication,unknown
+,2177,"Gakkyusha Co.,Ltd.",9769,Prime Market,Services,unknown
+,2179,"Aeon Delight Co.,Ltd.",9787,Prime Market,Services,unknown
+,2180,"Nac Co.,Ltd.",9788,Prime Market,Services,unknown
+,2181,"Fukui Computer Holdings,Inc",9790,Prime Market,Information & Communication,unknown
+,2182,"Daiseki Co.,Ltd.",9793,Prime Market,Services,unknown
+,2183,"Step Co.,Ltd.",9795,Prime Market,Services,unknown
+,2184,"Senshu Electric Co.,Ltd.",9824,Prime Market,Wholesale Trade,unknown
+,2185,Trusco Nakayama Corporation,9830,Prime Market,Wholesale Trade,unknown
+,2186,"Yamada Holdings Co.,Ltd.",9831,Prime Market,Retail Trade,unknown
+,2187,"Autobacs Seven Co.,Ltd.",9832,Prime Market,Wholesale Trade,unknown
+,2188,"Morito Co.,Ltd.",9837,Prime Market,Wholesale Trade,unknown
+,2189,Arclands Corporation,9842,Prime Market,Retail Trade,unknown
+,2190,"Nitori Holdings Co.,Ltd.",9843,Prime Market,Retail Trade,unknown
+,2191,"Gourmet Kineya Co.,Ltd.",9850,Prime Market,Retail Trade,unknown
+,2192,"Yoshinoya Holdings Co.,Ltd.",9861,Prime Market,Retail Trade,unknown
+,2193,"Kato Sangyo Co.,Ltd.",9869,Prime Market,Wholesale Trade,unknown
+,2194,Innotech Corporation,9880,Prime Market,Electric Appliances,unknown
+,2195,Yellow Hat Ltd.,9882,Prime Market,Wholesale Trade,unknown
+,2196,"Matsuya Foods Holdings Co.,Ltd.",9887,Prime Market,Retail Trade,unknown
+,2197,Jbcc Holdings Inc,9889,Prime Market,Information & Communication,unknown
+,2198,Sagami Holdings Corporation,9900,Prime Market,Retail Trade,unknown
+,2199,Nichiden Corporation,9902,Prime Market,Wholesale Trade,Q11504841
+,2200,"Miroku Jyoho Service Co.,Ltd.",9928,Prime Market,Information & Communication,unknown
+,2201,"Sugimoto & Co.,Ltd.",9932,Prime Market,Wholesale Trade,unknown
+,2202,"Inaba Denkisangyo Co.,Ltd.",9934,Prime Market,Wholesale Trade,unknown
+,2203,Ohsho Food Service Corp.,9936,Prime Market,Retail Trade,unknown
+,2204,"Ministop Co.,Ltd.",9946,Prime Market,Retail Trade,unknown
+,2205,"Arcs Company,Limited",9948,Prime Market,Retail Trade,unknown
+,2206,"Valor Holdings Co.,Ltd.",9956,Prime Market,Retail Trade,unknown
+,2207,Totech Corporation,9960,Prime Market,Wholesale Trade,unknown
+,2208,Misumi Group Inc,9962,Prime Market,Wholesale Trade,unknown
+,2209,"Belc Co.,Ltd.",9974,Prime Market,Retail Trade,unknown
+,2210,"Fast Retailing Co.,Ltd.",9983,Prime Market,Retail Trade,unknown
+,2211,Softbank Group Corp.,9984,Prime Market,Information & Communication,unknown
+,2212,"Suzuken Co.,Ltd.",9987,Prime Market,Wholesale Trade,unknown
+,2213,"Sundrug Co.,Ltd.",9989,Prime Market,Retail Trade,unknown
+,2214,Sac'S Bar Holdings Inc.,9990,Prime Market,Retail Trade,unknown
+,2215,Gecoss Corporation,9991,Prime Market,Wholesale Trade,unknown
+,2217,"Belluna Co.,Ltd.",9997,Prime Market,Retail Trade,unknown
