@@ -16,6 +16,3 @@ This folder contains the supplementary materials referenced from the thesis/pape
 - Cache raw JSON query responses and record a snapshot date for reproducibility.
 - Retain relations only when the returned entity maps back to a listed company in your universe.
 
-## Suggested citation (no DOI)
-If you cite this repository without a DOI, consider pinning to a commit hash:
-> Hewage, K., Li, B., Guo, T. *LUMI Relational Metadata and Wikidata Query Templates*. GitHub repository. Commit: <HASH>. Accessed: <DATE>.
