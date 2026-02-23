@@ -1,0 +1,17 @@
+# Second-order (two-hop) Wikidata query with labels (optional)
+# Replace P_a and P_b with Wikidata property IDs (e.g., P127, P749)
+
+SELECT ?c1 ?c1Label ?c2 ?c2Label ?mid ?midLabel WHERE {
+  VALUES ?c1 { wd:Q1 wd:Q2 wd:Q3 }
+  VALUES ?c2 { wd:Q1 wd:Q2 wd:Q3 }
+
+  ?c1 wdt:P_a ?mid .
+  ?mid wdt:P_b ?c2 .
+
+  FILTER(?c1 != ?c2)
+  FILTER(?c1 < ?c2)
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+  }
+}

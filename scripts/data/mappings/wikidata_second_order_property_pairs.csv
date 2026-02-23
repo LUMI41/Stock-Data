@@ -1,0 +1,13 @@
+code_1,code_2,code_1_description,code_2_description
+P1056,P1056,Product or material produced,Product or material produced
+P463,P749,Member of,Parent organization
+P1056,P452,Product or material produced,Industry
+P112,P112,Founded by,Founded by
+P121,P121,Parent organization,Parent organization
+P127,P127,Owned by,Owned by
+P31,P452,Instance of,Industry
+P355,P127,Subsidiary,Owned by
+P361,P361,Part of,Part of
+P452,P452,Industry,Industry
+P463,P463,Member of,Member of
+P749,P127,Parent organization,Owned by

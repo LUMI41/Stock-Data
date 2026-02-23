@@ -1,0 +1,11 @@
+# Wikidata SPARQL template (first-order)
+# Populate the VALUES block with company QIDs (batched, e.g., 100/request)
+# Returns (?company, ?value) pairs for property P355
+
+SELECT ?company ?companyLabel ?value ?valueLabel WHERE {
+  VALUES ?company { wd:Q1 wd:Q2 wd:Q3 }
+  ?company wdt:P355 ?value .
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+  }
+}

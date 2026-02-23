@@ -1,0 +1,14 @@
+# Generic second-order (two-hop) Wikidata query
+# c1 --(P_a)--> mid --(P_b)--> c2
+# Replace P_a and P_b with Wikidata property IDs (e.g., P127, P749)
+
+SELECT ?c1 ?c2 ?mid WHERE {
+  VALUES ?c1 { wd:Q1 wd:Q2 wd:Q3 }   # listed company QIDs (batched)
+  VALUES ?c2 { wd:Q1 wd:Q2 wd:Q3 }
+
+  ?c1 wdt:P_a ?mid .
+  ?mid wdt:P_b ?c2 .
+
+  FILTER(?c1 != ?c2)
+  FILTER(?c1 < ?c2)   # removes symmetric duplicates for undirected graphs
+}
